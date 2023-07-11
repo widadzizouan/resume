@@ -1,107 +1,66 @@
 zoom: "63.25%"
-title: "Waris Radji - Resume"
-firstName: "Waris"
-lastName: "Radji"
-position: "Artificial Intelligence Research Student & Freelancer"
+title: "Théo Michel - Resume"
+firstName: "Théo"
+lastName: "Michel"
+position: "Master Graduate looking for an Internship in AI research"
 links:
-  - url: "https://github.com/riiswa"
+  - url: "https://github.com/theo-michel"
     icon: "fab fa-github"
-  - url: "https://www.instagram.com/riiswa"
-    icon: "fab fa-instagram"
-  - url: "https://www.linkedin.com/in/warisr"
+  # - url: "https://www.instagram.com/riiswa"
+  #   icon: "fab fa-instagram"
+  - url: "www.linkedin.com/in/theo-michel42"
     icon: "fab fa-linkedin"
-  - url: "https://warisradji.com"
-    icon: "fas fa-globe"
+  # - url: "https://warisradji.com"
+  #   icon: "fas fa-globe"
 details:
   - key: "Age"
-    value: "22 years"
+    value: "23 years"
   - key: "Location"
-    value: "France"
+    value: "Flexible"
   - key: "Phone"
-    value: "+33 6 52 81 11 65"
+    value: "+33 6 43 45 13 97"
   - key: "E-mail"
-    value: "contact@warisradji.com"
-  - key: "Website"
-    value: "https://warisradji.com"
+    value: "theo64200@gmail.com"
+  # - key: "Website"
+  #   value: "https://warisradji.com"
   - key: "Interests"
-    value: "Street Lifting, Competitive Programming, Evolutionary Genetics"
-description: "Seeking a challenging PhD position in a field related to Deep Reinforcement Learning. Experienced Software Engineer with 3+ years of experience, I have a solid background in designing AI system, that gives me a unique perspective and set of skills that I believe would be valuable in contributing to the development of advanced RL research."
+    value: "Classical Music, Science-Fiction, Gym, Philosophy, AI, MMA, Volley-Ball"
+description: "Looking for an internship enabling me to hone my skills in Artifical Intelligence, and also to contribute to a groundbreaking project, be it in the technology or the application"
 jobs:
-  - date: "Jan 2023 - Aug 2023"
-    company: "Inria - Team Scool"
+  - date: "April 2022 - April 2023"
+    company: "Snow GMAO"
     logo: "img/logo/inria.png"
     arrow: 50
-    position: "RESEARCH SCIENTIST • Internship supd. by Odalric-Ambrym Maillard • Lille"
-    description: "Investigate the extension of novel, multi-armed bandit-inspired strategies for small Markov Decision Processes to larger models, with a particular emphasis on developing improvements to IMED-RL, a model-based and asymptotically optimal algorithm. We use function approximation (statistical and deep learning) to extend IMED-RL  and provide efficient solutions to high-dimensional problems."
+    position: "CO-FOUNDER (with Widad ZIZOUAN) • Val d'isère"
+    description: "Development of an application to help small companies to do easy regular maintenance of their equipment."
     badges:
-      - name: "Python"
+      - name: "Flutter"
         icon: "img/ico/python.png"
-      - name: "Pytorch"
+      - name: "Firebase"
         icon: "img/ico/pytorch.png"
     id: scool
-  - date: "Jun 2022 - Aug 2022"
-    company: "Lunatech | Scala Center"
-    logo: "img/logo/lunatech.jpg"
-    arrow: 50
-    position: "OPEN-SOURCE DEVELOPER • Internship supd. by Chris Kipp • Rotterdam"
-    description: "Working on Scala 3 support and adding the call hierarchy feature into the open-source tool Metals, the Scala language server. I have been involved in the development of other minor features and in fixing many issues."
-    badges:
-      - name: "Scala"
-        icon: "img/ico/scala.png"
-      - name: "Scalameta"
-        icon: "img/ico/scalameta.png"
-    id: lunatech
-    link: https://github.com/scalameta/metals
-  - date: "Jul 2021 - Aug 2021"
-    company: "Centre Hospitalier Universitaire de Bordeaux"
-    logo: "img/logo/chu-bdx.png"
-    arrow: 50
-    position: "DATA ANALYST • Freelance • Remote"
-    description: "Prediction of drowning risk from daily Meteo France meteorological data and development of an associated dashboard and an alert system."
-    badges:
-      - name: "R"
-        icon: "img/ico/r.png"
-      - name: "SQLite"
-        icon: "img/ico/sqlite.png"
-      - name: "Docker"
-        icon: "img/ico/docker.png"
-    id: chu-bdx
-  - date: "Jun 2021 - Jun 2022"
+  - date: "August 2021 - January 2022 "
     company: "Le Connecteur"
-    logo: "img/logo/chu-bdx.png"
+    logo: "img/logo/"
     arrow: 50
-    position: "BACK-END DEVELOPER • Freelance • Remote"
-    description: "Creation of cloud functions and a database to manage the reservation of coworking spaces by clients, after the purchase of tickets via a WooCommerce site."
+    position: "Lead Developper/ Product Owner • Freelance • Biarritz"
+    description: "Service to manage the reservation of coworking spaces by clients, after the purchase of tickets via a WooCommerce site. And flutter application enabling the scanning of the following QR codes. Managed team of 5 people."
     badges:
-      - name: "Node.js"
-        icon: "img/ico/nodejs.png"
+      - name: "Flutter"
+        icon: "img/ico/scala.png"
       - name: "Firebase"
         icon: "img/ico/firebase.png"
-    id: connecteur
+      - name: "Big Querry"
+        icon: "img/ico/scalameta.png"
+      - name: "Google Data Studio"
+        icon: "img/ico/scalameta.png"
     link: https://www.leconnecteur-biarritz.fr/
-  - date: "Oct 2020 - Apr 2021"
-    company: "Wellputt USA"
-    logo: "img/logo/wellputt.png"
+  - date: "July 2021 - August 2021"
+    company: "Boulanger SA"
+    logo: "img/logo/boulanger.png"
     arrow: 50
-    position: "LEAD ANDROID DEVELOPER • Freelance • Remote"
-    description: "Development of an Android application to supervise golfers and decision making regarding the technical aspects of the project within the team."
-    badges:
-      - name: "Kotlin"
-        icon: "img/ico/kotlin.png"
-      - name: "Android"
-        icon: "img/ico/android.png"
-      - name: "Firebase"
-        icon: "img/ico/firebase.png"
-      - name: "SQLite"
-        icon: "img/ico/sqlite.png"
-    id: wellputt
-    link: https://play.google.com/store/apps/details?id=com.wellputt.wellputt
-  - date: "Apr 2020 - Aug 2020"
-    company: "CNRS - Laboratoire d'Océanographie et du Climat"
-    logo: "img/logo/locean.png"
-    arrow: 50
-    position: "SOFTWARE ENGINEER • Internship supd. by Dimitry Khvorostyanov • Paris"
-    description: "Development of new functionalities for L-SAT, a web platform for collaborative analysis and exploration of satellite data. Minor changes to existing data analysis codes."
+    position: "TECHNICAL ADVISOR • Internship • Bayonne"
+    description: "Advising clients for high-tech product purchases."
     badges:
       - name: "Python"
         icon: "img/ico/python.png"
@@ -118,12 +77,27 @@ jobs:
       - name: "RabbitMQ"
         icon: "img/ico/rabbitmq.png"
     id: locean
-  - date: "Jul 2019 - Aug 2019"
-    company: "CNRS - Northern Paris Computer Science Lab"
-    logo: "img/logo/lipn.png"
+  - date: "Oct 2020 - Apr 2021"
+    company: "Wellputt USA"
+    logo: "img/logo/wellputt.png"
     arrow: 50
-    position: "MACHINE LEARNING ENGINEER • Associate • Paris"
-    description: "Implementation of a bio-inspired and clustering algorithm (Ant-Tree) in Scala to integrate it into the Clustering4Ever library. Use of data visualization libraries and Apache Spark to write ML notebooks."
+    position: "ANDROID DEVELOPER/PRODUCT OWNER • Freelance • Remote"
+    description: "Development of an Android application to gamify the putting training. Managing a team of 3 people, 4.4 star rating on Play Store with 80 000 downloads. "
+    badges:
+      - name: "Kotlin"
+        icon: "img/ico/kotlin.png"
+      - name: "Android"
+        icon: "img/ico/android.png"
+      - name: "Firebase"
+        icon: "img/ico/firebase.png"
+    id: wellputt
+    link: https://play.google.com/store/apps/details?id=com.wellputt.wellputt
+  - date: "May 2020 - July 2020"
+    company: "Simbals"
+    logo: "img/logo/simbals.png"
+    arrow: 50
+    position: "DATA SCIENTIST • Intern • Bordeaux"
+    description: "Creating new kinds of musical descriptors for high level musicians."
     badges:
       - name: "Scala"
         icon: "img/ico/scala.png"
@@ -135,21 +109,55 @@ jobs:
         icon: "img/ico/matplotlib.png"
       - name: "Jupyter"
         icon: "img/ico/jupyter.png"
-    id: lipn
-    link: https://github.com/Clustering4Ever/Clustering4Ever
+    id: simbals
+    link: https://www.simbals.com/
+  - date: "July 2020 - August 2020"
+    company: "Wellputt USA"
+    logo: "img/logo/lipn.png"
+    arrow: 50
+    position: "COMPUTER VISION ENGINEER • Freelance • Bayonne"
+    description: "Detecting putting strocks using computer vision, and predicting the optimal trajectory for the putt on the BigTilt plateform."
+    badges:
+      - name: "Scala"
+        icon: "img/ico/scala.png"
+      - name: "Python"
+        icon: "img/ico/python.png"
+      - name: "Spark"
+        icon: "img/ico/spark.png"
+      - name: "Maplotlib"
+        icon: "img/ico/matplotlib.png"
+      - name: "Jupyter"
+        icon: "img/ico/jupyter.png"
+    id: big_tilt
+    link: https://wellputt.com/eu/en/cms/17-bigtilt-contact
 educations:
-  - date: "2022 -2023"
-    degree: "Numerics Graduate Program - Optimisation and Decision"
-    logo: "img/logo/ub.jpg"
-    school: " University of Bordeaux Graduate Research School"
-    description: "The Numerics program aims to train tomorrow's experts in complex digital systems analysis, through a week of courses and projects on the themes of optimisation and decision, and weekly seminars."
+  - date: "February 2023 - July 2023"
+    degree: "Exchange program"
+    logo: "img/logo/KAIST.png"
+    school: "Korean Advanced Institute of Science and Technology (KAIST)"
+    description: "Widly regarded as the best engeneering school in South Korea, KAIST is a research-oriented university with a focus on science and technology."
     arrow: 50
     knowledges:
-      - Combinatorial Optimization
-      - Mathematical Modelling and Programming
-      - Constraint Programming
-      - Energy considerations in deep learning
-    link: https://college-doctoral.u-bordeaux.fr/en/Graduate-Research-School/Graduate-Programs/Numerics
+      - Deep Reinforcement Learning
+      - Building an autonomous Drone
+      - Graph Machine Learning
+      - IOT Data Science
+    link: https://www.kaist.ac.kr/en/html/kaist/01.html#0112
+
+  - date: "October 2022 - February 2023"
+    degree: "Exchange program"
+    logo: "img/logo/TU_berlin.png"
+    school: "Techninal University Berlin"
+    description: "Tu Berlin"
+    arrow: 50
+    knowledges:
+      - Machine Learning Theory 1
+      - Machine Learning Application 1
+      - Python programming for Machine learning
+      - Brain Computer Interfacing
+      - Reinforcement Learning Project
+    link: https://www.tu.berlin/en/
+
   - date: "2020 - 2023"
     degree: "Engineer's degree in Computer Science - Artificial Intelligence Major - PhD track "
     logo: "img/logo/enseirb.png"
@@ -174,7 +182,7 @@ educations:
       - Knowledge Representation
     link: https://enseirb-matmeca.bordeaux-inp.fr/fr/informatique
   - date: "2018 - 2020"
-    degree: "Technical college degree in Computer Science"
+    degree: "Preparatory Class for the grandes ecoles"
     logo: "img/logo/uspn.png"
     school: "Université Sorbonne Paris Nord (DUT Informatique)"
     description: "Multidisciplinary training that trains assistant engineers and project managers in management and industrial computing. Operational in software and hardware development, we have participated in the design, realization and implementation of computer systems."
