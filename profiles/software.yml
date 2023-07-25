@@ -1,12 +1,15 @@
 jobs:
-  - lunatech
+  - snow
+  - boulanger
   - connecteur
-  - locean
   - wellputt
+  - simbals
+  - big_tilt
 projects:
-  - lunaconf
-  - mindmail
-  - studio
-  - retro
-  - c4e
-  - margo
+  - dark_forest
+  - dim_red
+  - drone
+  - dreamer_v2
+  - sim_clr
+  - ai_data_challenge
+  - hexapod

@@ -24,65 +24,59 @@ details:
   # - key: "Website"
   #   value: "https://warisradji.com"
   - key: "Interests"
-    value: "Classical Music, Science-Fiction, Gym, Philosophy, AI, MMA, Volley-Ball"
+    value: "Classical Music, Science-Fiction, Philosophy, AI, Gym, MMA, Volley-Ball"
 description: "Looking for an internship enabling me to hone my skills in Artifical Intelligence, and also to contribute to a groundbreaking project, be it in the technology or the application"
 jobs:
   - date: "April 2022 - April 2023"
     company: "Snow GMAO"
-    logo: "img/logo/inria.png"
+    logo: "img/logo/snow-gmao.png"
     arrow: 50
     position: "CO-FOUNDER (with Widad ZIZOUAN) • Val d'isère"
-    description: "Development of an application to help small companies to do easy regular maintenance of their equipment."
+    description: "Co-founded a startup aimed at simplifying equipment maintenance for small companies, overseeing a team of 9. Went through all the stages of creating a company, and successfully developed a leading-edge app in the field of maintenance."
     badges:
       - name: "Flutter"
-        icon: "img/ico/python.png"
+        icon: "img/ico/flutter.png"
       - name: "Firebase"
-        icon: "img/ico/pytorch.png"
-    id: scool
+        icon: "img/ico/firebase.png"
+      - name: "G Cloud"
+        icon: "img/ico/google-cloud.png"
+    link: https://snow-cannon-gmao-website.firebaseapp.com/
+    id: snow
   - date: "August 2021 - January 2022 "
     company: "Le Connecteur"
-    logo: "img/logo/"
+    logo: "img/logo/connecteur.png"
     arrow: 50
-    position: "Lead Developper/ Product Owner • Freelance • Biarritz"
-    description: "Service to manage the reservation of coworking spaces by clients, after the purchase of tickets via a WooCommerce site. And flutter application enabling the scanning of the following QR codes. Managed team of 5 people."
+    position: "LEAD DEVELOPPER/ PRODUCT OWNER • Freelance • Biarritz"
+    description: "Led a team of five to develop a service for managing coworking space reservations through a WooCommerce site and a Flutter application for QR code scanning. Service has been running smoothly for 2 years."
     badges:
       - name: "Flutter"
-        icon: "img/ico/scala.png"
+        icon: "img/ico/flutter.png"
+      - name: "SQL"
+        icon: "img/ico/sql.png"
       - name: "Firebase"
         icon: "img/ico/firebase.png"
       - name: "Big Querry"
-        icon: "img/ico/scalameta.png"
-      - name: "Google Data Studio"
-        icon: "img/ico/scalameta.png"
+        icon: "img/ico/big-query.png"
+      - name: "Data Studio"
+        icon: "img/ico/data-studio.png"
+      - name: "G Cloud"
+        icon: "img/ico/google-cloud.png"
     link: https://www.leconnecteur-biarritz.fr/
-  - date: "July 2021 - August 2021"
-    company: "Boulanger SA"
-    logo: "img/logo/boulanger.png"
-    arrow: 50
-    position: "TECHNICAL ADVISOR • Internship • Bayonne"
-    description: "Advising clients for high-tech product purchases."
-    badges:
-      - name: "Python"
-        icon: "img/ico/python.png"
-      - name: "Django"
-        icon: "img/ico/django.png"
-      - name: "Matlab"
-        icon: "img/ico/matlab.png"
-      - name: "Postgresql"
-        icon: "img/ico/postgresql.png"
-      - name: "Javascript"
-        icon: "img/ico/javascript.svg"
-      - name: "ChartJS"
-        icon: "img/ico/chartjs.png"
-      - name: "RabbitMQ"
-        icon: "img/ico/rabbitmq.png"
-    id: locean
+    id: connecteur
+  # - date: "July 2021 - August 2021"
+  #   company: "Boulanger SA"
+  #   logo: "img/logo/boulanger.png"
+  #   arrow: 50
+  #   position: "TECHNICAL ADVISOR • Bayonne"
+  #   description: "Advised clients for high-tech product purchases. Gained valuable insights into the world of sales and customer preferences."
+  #   badges:
+  #   id: boulanger
   - date: "Oct 2020 - Apr 2021"
     company: "Wellputt USA"
     logo: "img/logo/wellputt.png"
     arrow: 50
     position: "ANDROID DEVELOPER/PRODUCT OWNER • Freelance • Remote"
-    description: "Development of an Android application to gamify the putting training. Managing a team of 3 people, 4.4 star rating on Play Store with 80 000 downloads. "
+    description: "Spearheaded the development of an engaging Android application gamifying putting training, achieving a 4.4-star rating on the Play Store and over 80,000 downloads."
     badges:
       - name: "Kotlin"
         icon: "img/ico/kotlin.png"
@@ -92,54 +86,57 @@ jobs:
         icon: "img/ico/firebase.png"
     id: wellputt
     link: https://play.google.com/store/apps/details?id=com.wellputt.wellputt
+  - date: "July 2020 - August 2020"
+    company: "Wellputt USA"
+    logo: "img/logo/wellputt.png"
+    arrow: 50
+    position: "COMPUTER VISION ENGINEER • Freelance • Bayonne"
+    description: "Led the development of a highly accurate golf ball tracking algorithm and trajectory prediction for the Big Tilt platform."
+    badges:
+      - name: "C++"
+        icon: "img/ico/cpp.png"
+      - name: "Python"
+        icon: "img/ico/python.png"
+      - name: "Maplotlib"
+        icon: "img/ico/matplotlib.png"
+      - name: "Jupyter"
+        icon: "img/ico/jupyter.png"
+      - name: "Open CV"
+        icon: "img/ico/open-cv.png"
+      - name: "Pytorch"
+        icon: "img/ico/pytorch.png"
+      
+    id: big_tilt
+    link: https://wellputt.com/eu/en/cms/17-bigtilt-contact
   - date: "May 2020 - July 2020"
     company: "Simbals"
     logo: "img/logo/simbals.png"
     arrow: 50
     position: "DATA SCIENTIST • Intern • Bordeaux"
-    description: "Creating new kinds of musical descriptors for high level musicians."
+    description: "Creation of innovative musical descriptors, providing musicians with new ways to discover music."
     badges:
-      - name: "Scala"
-        icon: "img/ico/scala.png"
       - name: "Python"
         icon: "img/ico/python.png"
-      - name: "Spark"
-        icon: "img/ico/spark.png"
       - name: "Maplotlib"
         icon: "img/ico/matplotlib.png"
       - name: "Jupyter"
         icon: "img/ico/jupyter.png"
+      - name: "Librosa"
+        icon: "img/ico/librosa.png"
+      - name: "Pytorch"
+        icon: "img/ico/pytorch.png"
     id: simbals
     link: https://www.simbals.com/
-  - date: "July 2020 - August 2020"
-    company: "Wellputt USA"
-    logo: "img/logo/lipn.png"
-    arrow: 50
-    position: "COMPUTER VISION ENGINEER • Freelance • Bayonne"
-    description: "Detecting putting strocks using computer vision, and predicting the optimal trajectory for the putt on the BigTilt plateform."
-    badges:
-      - name: "Scala"
-        icon: "img/ico/scala.png"
-      - name: "Python"
-        icon: "img/ico/python.png"
-      - name: "Spark"
-        icon: "img/ico/spark.png"
-      - name: "Maplotlib"
-        icon: "img/ico/matplotlib.png"
-      - name: "Jupyter"
-        icon: "img/ico/jupyter.png"
-    id: big_tilt
-    link: https://wellputt.com/eu/en/cms/17-bigtilt-contact
 educations:
   - date: "February 2023 - July 2023"
     degree: "Exchange program"
     logo: "img/logo/KAIST.png"
     school: "Korean Advanced Institute of Science and Technology (KAIST)"
-    description: "Widly regarded as the best engeneering school in South Korea, KAIST is a research-oriented university with a focus on science and technology."
+    description: "Widly regarded as the best engineering school in South Korea, KAIST is a research-oriented university with a focus on science and technology, in which I participated in leading edge projects."
     arrow: 50
     knowledges:
       - Deep Reinforcement Learning
-      - Building an autonomous Drone
+      - Introduction to Autonomous Robotics
       - Graph Machine Learning
       - IOT Data Science
     link: https://www.kaist.ac.kr/en/html/kaist/01.html#0112
@@ -148,148 +145,199 @@ educations:
     degree: "Exchange program"
     logo: "img/logo/TU_berlin.png"
     school: "Techninal University Berlin"
-    description: "Tu Berlin"
+    description: "Studied the fundamentals of Brain computer interfacing and Machine Learning taught by some of the fathers of the field like Klaus-Robert Müller."
     arrow: 50
     knowledges:
       - Machine Learning Theory 1
-      - Machine Learning Application 1
       - Python programming for Machine learning
+      - Machine Intelligence 1
       - Brain Computer Interfacing
-      - Reinforcement Learning Project
+      - Reinforcement Learning Research Project (LIS Lab)
     link: https://www.tu.berlin/en/
 
   - date: "2020 - 2023"
     degree: "Engineer's degree in Computer Science - Artificial Intelligence Major - PhD track "
     logo: "img/logo/enseirb.png"
     school: "ENSEIRB-MATMECA - Bordeaux Graduate School in Electronics, Computer Science, Telecommunications, Mathematics and Mechanics"
-    description: "Master the necessary fundamental, theoretical and practical aspects of the main fields of computer sciences in order to develop. I joined the PhD track, which prepares engineering students for scientific research and its applications, encourages R&D vocations and facilitates the understanding of doctoral studies, through seminars, round tables, visits, projects, specific modules, etc."
+    description: "Master the necessary fundamental, theoretical and practical aspects of the main fields of computer sciences. I joined the PhD track, which prepares engineering students for scientific research and its applications, encourages R&D vocations and facilitates the understanding of doctoral studies, through seminars, round tables, visits, projects, specific modules, etc."
     arrow: 50
     knowledges:
       - Probability
       - Formal Methods
+      - Functional Programing
+      - Object Oriented Programing
       - Automata Theory
       - Compiler Theory
-      - Distributed Computing
+      - Quantum Computing
       - Numerical Methods
       - System Programming
       - Computability Theory
+      - Robotics
       - Machine Learning
-      - Reinforcement Learning
-      - Deep Learning
-      - Video Analysis
-      - Computer Vision
-      - Search Algorithms
-      - Knowledge Representation
+
     link: https://enseirb-matmeca.bordeaux-inp.fr/fr/informatique
   - date: "2018 - 2020"
     degree: "Preparatory Class for the grandes ecoles"
-    logo: "img/logo/uspn.png"
-    school: "Université Sorbonne Paris Nord (DUT Informatique)"
-    description: "Multidisciplinary training that trains assistant engineers and project managers in management and industrial computing. Operational in software and hardware development, we have participated in the design, realization and implementation of computer systems."
+    logo: "img/logo/prepa.png"
+    school: "La Prepa des INP Bordeaux"
+    description: "Two year high-intensity study of Mathematics and physics to prepare for the entry into french engineering schools."
     arrow: 50
     knowledges:
-      - OOP
-      - Database
-      - HCI
-      - Web Programming
-      - Agile Methodology
+      - Logic
+      - Algebra
+      - Differential Calculus
+      - Group Theory
+      - Numerical Sequences
+      - Polynomials
       - Linear Algebra
-      - Graph theory
-      - Algorithms
-      - Analysis
-      - Differential Equation
-      - Operational Research
-      - Computer Network
+      - Reduction of Endomorphisms
+      - Thermodynamics
+      - Classical Mechanics
+      - Electrostatics and Magnetic fields
+      - Electric Circuits
+      - Mecanical Waves
+      - Fluid Mecanics
+      - Wave Optics
+      - Diffusion
+      - Quantum Physics
+
+
 projects:
-  - date: "2022-2023"
-    name: "Evolutionary DIAYN"
-    position: "APPRENTICE RESEARCHER"
-    description: "Explored the benefits and limitations of applying DIAYN, a unsupervised reinforcement learning algorithm for skills discovery, on top of Evolutionary Strategies."
-    id: ediayn
-    link: https://hal.science/hal-03953183
-  - date: "2022-2023"
-    name: "Reinforcement learning on symbolic data"
-    position: "APPRENTICE RESEARCHER"
-    description: "In collaboration with the INRIA Mnemosyne team, development of a variant of Q-Learning for use with symbolic data, allowing the incorporation of structured knowledge in the form of qualitative or quantitative data."
-    id: srl
-    link: https://github.com/riiswa/symbolic-rl
-  - date: "2022"
-    name: "GOOGLE ROADEF/EURO challenge 2012"
-    position: "APPRENTICE RESEARCHER"
-    description: "1 week to solve a machine reassignment problem, limited by hard constraints. I have mathematically modeled the problem as a system of linear equation, and I have solved it with Mixed Integer Programming methods using the Python-MIP library."
-    id: gro
-    link: https://github.com/Flopsky/google-roadef-euro-2012
-  - date: "2022"
-    name: "Lunaconf"
-    position: "ANDROID KOTLIN DEVELOPER"
-    description: "Development of an application to help attendees follow the Lunaconf conference, through an interactive schedule."
-    id: lunaconf
-  - date: "2022"
-    name: "Universal adversarial perturbations"
-    position: "APPRENTICE RESEARCHER"
-    description: 'Reproduction of an experiment from the paper "Universal adversarial perturbations" (accepted at CVPR 2017) consisting in proving the efficiency of universal perturbations on the VGG11 architecture.'
-    id: uap
-    link: https://hal.science/hal-03806871
-  - date: "2022"
-    name: "MindMail"
+  - date: "2023"
+    name: "Dark Forest Reinforcement Learning"
+    position: "TEAM LEAD"
+    description: "Design and Implementation of Reinforcement Learning environment for modelling solar system communications using DeepMind Melting pot, RLlib and Ray."
+    badges:
+    - name: "Lua"
+      icon: "img/ico/lua.png"
+    - name: "Python"
+      icon: "img/ico/python.png"
+    - name: "Pytorch"
+      icon: "img/ico/pytorch.png"
+    - name: "Deepmind Melting Pot"
+      icon: "img/ico/deepmind.png"
+    - name: "Docker"
+      icon: "img/ico/docker.png"
+    - name: "Ray"
+      icon: "img/ico/ray.png"
+    id: dark_forest
+    link: https://www.overleaf.com/read/vsyjfssdqxyt
+  - date: "2023"
+    name: "Novel Dimensionality Reduction Technique using ML Graph Embeddings"
+    position: "RESEARCHER"
+    description: 'Developed and implemented a novel dimensionality reduction technique using Graph Embeddings to preserve data substructures effectively. The algorithm performed on par or better than the SOTA while being extremely simple.'
+    badges:
+    - name: "Python"
+      icon: "img/ico/python.png"
+    - name: "Pytorch"
+      icon: "img/ico/pytorch.png"
+    - name: "Scikit-learn"
+      icon: "img/ico/sklearn.png"
+    id: dim_red
+    link: https://drive.google.com/file/d/17jsUQMLpwazcbKq-TFzwzr73QORlgzHG/view?usp=sharing
+  - date: "2023"
+    name: "Remote controle AI based glove"
+    position: "RESEARCHER"
+    description: 'Assembled a glove covered in accelerometers and used Machine Learning to learn movements and recognize them using the arduino 33 BLE.'
+    badges:
+    - name: "Python"
+      icon: "img/ico/python.png"
+    - name: "Tensorflow"
+      icon: "img/ico/tensorflow.png"
+    - name: "Arduino"
+      icon: "img/ico/arduino.png"
+    id: glove
+    link: "https://youtu.be/p7Pj-NgkkpA"
+  - date: "2023"
+    name: "Gesture-Controlled Autonomous Drone for Group Photography"
     position: "DEVELOPER"
-    description: 'Creation of an "intelligent" webmail client, capable of classifying mails by automatically determining the different categories. An interactive interface allows to visualize the created clusters.'
-    id: mindmail
-  - date: "2021-2022"
-    name: "Eirb'IA"
-    position: "CO-FOUNDER (with Hector Piteau)"
-    description: "Creation and management of the Artificial Intelligence Club of ENSEIRB-MATMECA through workshops, conferences, debates, competitions and paper popularization."
-    id: eirbia
+    description: 'Assembled and programmed a gesture-controlled autonomous quadcopter capable of capturing pictures of humans in different positions.'
+    badges:
+    - name: "C++"
+      icon: "img/ico/cpp.png"
+    - name: "Python"
+      icon: "img/ico/python.png"
+    - name: "Gazebo"
+      icon: "img/ico/gazebo.png"
+    - name: "ROS"
+      icon: "img/ico/ros.png"
+    - name: "Jetson Nano"
+      icon: "img/ico/nvidia.png"
+
+    link: https://pitch.com/public/dc243670-7bac-4cd7-addc-8ccf4bf6df14
+    id: drone
+  - date: "2022-2023"
+    name: "Dreamer V2"
+    position: "RESEARCHER"
+    description: "Research on the effectiveness of the Dreamer V2 reinforcement learning algorithm in solving more complex puzzle like tasks. Implementation of the algorithm, training on new tasks, and exploration of the algorithm's understanding of the tasks."
+    badges:
+    - name: "Python"
+      icon: "img/ico/python.png"
+    - name: "Pytorch"
+      icon: "img/ico/pytorch.png"
+    - name: ML Flow
+      icon: "img/ico/ml-flow.png"
+    id: dreamer_v2
+    link: https://www.overleaf.com/read/mmwnsrzjkjbw
+  - date: "2022"
+    name: "Sim CLR Phd Track Project"
+    position: "Team Member"
+    description: "Conducted research on the effectiveness of the contrastive self-supervised learning method Sim-CLR on various datasets, and explored its performance on resource-constrained hardware."
+    badges:
+    - name: "Python"
+      icon: "img/ico/python.png"
+    - name: "Pytorch"
+      icon: "img/ico/pytorch.png"
+    - name: "Weights and Biases"
+      icon: "img/ico/wb.svg"
+    id: sim_clr
+    link: https://www.overleaf.com/read/yckdhpynnftb
   - date: "2021"
-    name: "Hackathon DefInSpace"
-    position: "LEAD TECH"
-    description: "24 hours to imagine solutions for space defense. My solution consisted in the implementation of a robust satellite network based on the Blockchain to ensure a reliable exchange of information."
-    id: definspace
-  - date: "2020-2022"
-    name: "Pokémon Studio"
-    position: "LEAD BACK-END DEVELOPER"
-    description: "Creation of Pokemon Studio, a tool developed in React to create its Pokemon game project more simply. The goal is to replace Ruby Host, the Database editor, and to allow more relevance by leaving RPG Maker XP."
-    id: studio
-    link: https://www.youtube.com/watch?v=kvfdrS4fCbg&ab_channel=Pok%C3%A9monWorkshop
-  - date: "2020-2022"
-    name: "Scala Retro"
-    position: "MAINTAINER"
-    description: "Development of a sbt plugin for Scala Retro, a package that allows to generate UML Class Diagrams from Scala source code."
-    id: retro
-    link: https://github.com/scala-retro/scala-retro
-  - date: "2019-2021"
-    name: "Clustering4Ever"
-    position: "CONTRIBUTOR"
-    description: "Implement various ML algorithms into Clustering4Ever, a Big Data Clustering Library gathering clustering, unsupervised algorithms, and quality indices, written in Scala and Spark."
-    id: c4e
-    link: https://github.com/Clustering4Ever/Clustering4Ever
-  - date: "2019"
-    name: "Hackathon Blockchain Margo X UNICEF"
-    position: "BLOCKCHAIN DEVELOPER"
-    description: "Develop in 48 hours a solution to record the key stages of the child's life on the Blockchain. I developed part of the Node.js back-end and wrote Solidity smart contracts to deploy them on the Ethereum Blockchain."
-    id: margo
-  - date: "2018"
-    name: "Ant Colony Simulator"
-    position: "MAIN DEVELOPER"
-    description: "Open source project about the simulation of an intelligent ant colony looking for the shortest path to a food source."
-    id: ant
-    link: https://github.com/riiswa/colony-ant-simulator
+    name: "IA Pau Data Challenge"
+    position: "Team lead"
+    description: "Lead a team of first-year students in the AI Data Challenge Pau, achieving best performance and lowest training time on the patent classification task using fastText (Meta)."
+    badges:
+    - name: "Python"
+      icon: "img/ico/python.png"
+    - name: "Fast Text"
+      icon: "img/ico/fast-text.png"
+    - name: "Qt"
+      icon: "img/ico/qt.png"
+    id: ai_data_challenge
+    link: https://www.linkedin.com/posts/warisr_f%C3%A9licitations-%C3%A0-tous-les-membres-deirbia-activity-6893670431908253696-B9Lz?utm_source=share&utm_medium=member_desktop
+  - date: "2021"
+    name: "Walking Hexapod"
+    position: "DEVELOPPER"
+    description: " Developed and implemented an efficient inverse kinematics and walking pattern for a 6-legged robot, demonstrating best in class precise and stable locomotion."
+    badges:
+    - name: "Python"
+      icon: "img/ico/python.png"
+    - name: "PyBullet"
+      icon: "img/ico/py-bullet.png"
+    id: hexapod
+    # link: https://github.com/riiswa/colony-ant-simulator
 skills:
-  - icon: fas fa-code
-    category: Programming
-    content: Scala, Python, Java, Haskell, JS/TS, C, C++, Kotlin
-  - icon: fas fa-database
-    category: Data Engineering
-    content: Spark, Kafka, Google Cloud Platform, (No)SQL
   - icon: fas fa-robot
     category: Machine Learning
-    content: Scikit-Learn, TensorFlow, Pytorch, NLTK, Deeplearning4j
-  - icon: fas fa-chart-pie
-    category: Data Visualization
-    content: D3.js, Plotly, ChartJS, Processing, Matplotlib, ggplot
+    content: Pytorch, TensorFlow, Scikit-learn, OpenCV, FastText, RLlib, DeepMind Melting Pot
+  - icon: fas fa-code
+    category: Programming
+    content: Python, Java / Kotlin, Dart / Js, Swift, C / C++, Lua, Functional Programming
+  - icon: fas fa-database
+    category: Data Science
+    content: Firebase, Big Query, Cloud functions, Plotly, Matplotlib, Google Data Studio
   - icon: fas fa-globe
-    category: Web Framework
-    content: React, Play!, Flask, Django, Angular
+    category: Application Framework
+    content: Flutter, Android, iOS, Web
+  - icon: fas fa-robot
+    category: Robotics
+    content: Raspberry Pi / Arduino / Jetson, Soldering, ROS, PyBullet, Gazebo, Orb-Slam
+
+  # - icon: fas fa-chart-pie
+  #   category: Data Visualization
+  #   content: 
   - icon: fas fa-balance-scale
     category: Soft Skills
-    content: Adaptability, Creativity, Problem-Solving, Attention to Detail
+    content: Adaptability, Creativity, Problem-Solving, Attention to Detail, Ability to lead a team
+
+

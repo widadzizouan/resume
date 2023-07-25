@@ -23,7 +23,7 @@
 <style>
     @media print {
         html {
-            zoom: <%= zoom %>;
+            zoom: <%=zoom %>;
         }
     }
 </style>
@@ -87,7 +87,8 @@
                             <%= position %>
                         </span>
                     </h1>
-                    <div class="md:max-h-80 print:max-h-60 overflow-hidden mx-auto print:flex print:justify-items-center print:items-center">
+                    <div
+                        class="md:max-h-80 print:max-h-60 overflow-hidden mx-auto print:flex print:justify-items-center print:items-center">
                         <img class="md:max-w-none md:h-full print:max-w-none print:h-full print:rounded-full" style="margin-left: 50%;
     transform: translateX(-50%);" src="img/profile.jpg" onmouseover="this.src='img/profile-smile.jpg';"
                             onmouseout="this.src='img/profile.jpg';" alt="profile picture">
@@ -95,7 +96,8 @@
                 </div>
 
                 <div class="col-span-2 m-2">
-                    <h1 class="text-4xl hidden md:inline print:inline leading-6">Hello <i class="fas fa-handshake my-red-text"></i>,
+                    <h1 class="text-4xl hidden md:inline print:inline leading-6">Hello <i
+                            class="fas fa-handshake my-red-text"></i>,
                         I'm
                         <span class="font-semibold">
                             <%= firstName %>
@@ -134,11 +136,33 @@
             </header>
         </div>
         <section class="px-2">
-            <div class="relative grid grid-cols-1 md:grid-cols-2 print:grid-cols-2 place-items-center" id="work-experience-education">
-                <div class="top-20 -bottom-2 my-red w-1 opacity-30 absolute inset-x-0 mx-auto invisible md:visible print:visible">
+            <div class="relative grid grid-cols-1 md:grid-cols-2 print:grid-cols-2 place-items-center"
+                id="work-experience-education">
+                <div
+                    class="top-20 -bottom-2 my-red w-1 opacity-30 absolute inset-x-0 mx-auto invisible md:visible print:visible">
                 </div>
                 <div class="col-span-1 relative">
-                    <div class="top-16 -bottom-2 my-red w-1 opacity-30 absolute inset-x-0 mx-auto  md:invisible print:invisible"></div>
+                    <div
+                        class="top-16 -bottom-2 my-red w-1 opacity-30 absolute inset-x-0 mx-auto  md:invisible print:invisible">
+                    </div>
+                    <h2 id="skills-interests"><i class="fas fa-book"></i> SKILLS</h2>
+                    <div
+                        class="grid grid-cols-2 md:grid-cols-3 justify-items-center gap-4 justify-center place-items-center px-2 md:pr-0 print:pr-0 md:pl-10 print:pl-10">
+                        <% for(let skill of skills || []){ %>
+                            <div class="skill-block-wrapper">
+                                <div class="skill-block animate__animated animate__slow">
+                                    <div class="skill-block-category text-center"><i class="<%= skill.icon %>"></i>
+                                        <%= skill.category %>
+                                    </div>
+                                    <% if (skill.content) {%>
+                                        <div class="text-center my-auto">
+                                            <%= skill.content %>
+                                        </div>
+                                        <%} %>
+                                </div>
+                            </div>
+                            <%} %>
+                    </div>
                     <h2 id="work-experience"><i class="fas fa-briefcase"></i> WORK EXPERIENCE</h2>
                     <% for(let job of jobs || []){ %>
                         <div class="job-block-wrapper">
@@ -195,25 +219,9 @@
                 </div>
                 <div class="col-span-1 relative">
 
-                    <h2 id="skills-interests"><i class="fas fa-book"></i> SKILLS</h2>
-                    <div class="grid grid-cols-2 md:grid-cols-3 justify-items-center gap-4 justify-center place-items-center px-2 md:pr-0 print:pr-0 md:pl-10 print:pl-10">
-                        <% for(let skill of skills || []){ %>
-                            <div class="skill-block-wrapper">
-                                <div class="skill-block animate__animated animate__slow">
-                                    <div class="skill-block-category text-center"><i class="<%= skill.icon %>"></i>
-                                        <%= skill.category %>
-                                    </div>
-                                    <% if (skill.content) {%>
-                                        <div class="text-center my-auto">
-                                            <%= skill.content %>
-                                        </div>
-                                    <%} %>
-                                </div>
-                            </div>
-                        <%} %>
+                    <div
+                        class="top-16 -bottom-2 my-red w-1 opacity-30 absolute inset-x-0 mx-auto md:invisible print:invisible">
                     </div>
-
-                    <div class="top-16 -bottom-2 my-red w-1 opacity-30 absolute inset-x-0 mx-auto md:invisible print:invisible"></div>
                     <h2 id="education"><i class="fas fa-user-graduate"></i> EDUCATION</h2>
 
                     <% for(let education of educations || []){ %>
@@ -237,9 +245,9 @@
                                             <p class="position">
                                                 <%= education.school %>
                                             </p>
-<!--                                            <p class="text-justify">-->
-<!--                                                <%= education.description %>-->
-<!--                                            </p>-->
+                                            <p class="text-justify">
+                                                <%= education.description %>
+                                            </p>
                                             <% if (education.knowledges) {%>
                                                 <div
                                                     class="badge-text-block flex flex-wrap text-white gap-1 justify-center mt-2">
@@ -287,6 +295,17 @@
                                             <p class="text-justify">
                                                 <%= project.description %>
                                             </p>
+                                            <div class="badge-block">
+                                                <% const badges=[...project.badges].reverse(); for(let badge of badges
+                                                    || []){ %>
+                                                    <div class="has-tooltip">
+                                                        <span class="tooltip">
+                                                            <%= badge.name %>
+                                                        </span>
+                                                        <img alt="<%= badge.name %> logo" src="<%= badge.icon %>">
+                                                    </div>
+                                                    <%} %>
+                                            </div>
                     </div>
                 </div>
                 <%} %>
@@ -294,7 +313,8 @@
     </div>
     <div class="my-5"></div>
     <div class="hidden print:block text-center pt-4">
-        A online version of this resume is also available, with updates as they occur, on <a class="my-red-text" href="https://warisradji.com/resume/">warisradji.com/resume/</a>.
+        A online version of this resume is also available, with updates as they occur, on <a class="my-red-text"
+            href="https://warisradji.com/resume/">warisradji.com/resume/</a>.
         <br>
         <img class="p-4 w-2/12 mx-auto" src="img/qrcode.png" alt="QR-code of the online resume.">
     </div>

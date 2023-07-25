@@ -1,13 +1,15 @@
 jobs:
-  - lunatech
-  - chu-bdx
-  - locean
-  - lipn
+  - snow
+  - boulanger
+  - connecteur
+  - wellputt
+  - simbals
+  - big_tilt
 projects:
-  - ediayn
-  - srl
-  - gro
-  - uap
-  - eirbia
-  - mindmail
-  - c4e
+  - dark_forest
+  - dim_red
+  - drone
+  - dreamer_v2
+  - sim_clr
+  - ai_data_challenge
+  - hexapod
