@@ -93,7 +93,7 @@ jobs:
     logo: "img/logo/wellputt.png"
     arrow: 50
     position: "COMPUTER VISION ENGINEER • Freelance • Bayonne"
-    description: "Led the development of a highly accurate golf ball tracking algorithm and trajectory prediction for the Big Tilt platform."
+    description: "Led the development of a highly accurate golf ball tracking and trajectory prediction algorithm for the Big Tilt platform."
     badges:
       - name: "C++"
         icon: "img/ico/cpp.png"
@@ -195,7 +195,7 @@ educations:
       - Reduction of Endomorphisms
       - Thermodynamics
       - Classical Mechanics
-      - Electrostatics and Magnetic fields
+      - Electrostatics and Magnetic Fields
       - Electric Circuits
       - Mecanical Waves
       - Fluid Mecanics
