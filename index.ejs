@@ -136,7 +136,7 @@
             </header>
         </div>
         <section class="px-2">
-            <div class="relative grid grid-cols-1 md:grid-cols-2 print:grid-cols-2 place-items-center"
+            <div class="relative grid grid-cols-1 md:grid-cols-2 print:grid-cols-2"
                 id="work-experience-education">
                 <div
                     class="top-20 -bottom-2 my-red w-1 opacity-30 absolute inset-x-0 mx-auto invisible md:visible print:visible">
@@ -147,8 +147,7 @@
                     </div>
                     <h2 id="skills-interests"><i class="fas fa-book"></i> SKILLS</h2>
                     <div
-                        class="grid grid-cols-2 md:grid-cols-3 justify-items-center gap-4 justify-center place-items-center px-2 md:pr-0 print:pr-0 md:pl-10 print:pl-10">
-                        <% for(let skill of skills || []){ %>
+                    class="grid grid-cols-2 md:grid-cols-3 justify-items-center gap-4 justify-center place-items-center px-2 md:pr-10 print:pr-10 md:pl-0 print:pl-0">                        <% for(let skill of skills || []){ %>
                             <div class="skill-block-wrapper">
                                 <div class="skill-block animate__animated animate__slow">
                                     <div class="skill-block-category text-center"><i class="<%= skill.icon %>"></i>
@@ -218,7 +217,7 @@
                         <%} %>
                 </div>
                 <div class="col-span-1 relative">
-
+<!-- Space for skills -->
                     <div
                         class="top-16 -bottom-2 my-red w-1 opacity-30 absolute inset-x-0 mx-auto md:invisible print:invisible">
                     </div>
@@ -314,16 +313,16 @@
     <div class="my-5"></div>
     <div class="hidden print:block text-center pt-4">
         A online version of this resume is also available, with updates as they occur, on <a class="my-red-text"
-            href="https://warisradji.com/resume/">warisradji.com/resume/</a>.
+            href="https://theo-michel.github.io/resume-theo-michel/">https://theo-michel.github.io/resume-theo-michel/</a>.
         <br>
         <img class="p-4 w-2/12 mx-auto" src="img/qrcode.png" alt="QR-code of the online resume.">
     </div>
     <footer class="p-14 my-red text-gray-50 print:hidden text-center">
-        Profiles: <a href="https://warisradji.com/resume/">Main</a> | <a
-            href="https://warisradji.com/resume/data.html">Data</a> | <a
-            href="https://warisradji.com/resume/software.html">Software</a>
+        Profiles: <a href="https://theo-michel.github.io/resume-theo-michel/">Main</a> | <a
+            href="https://theo-michel.github.io/resume-theo-michel/data.html">Data</a> | <a
+            href="https://theo-michel.github.io/resume-theo-michel/software.html">Software</a>
         <br>
-        © 2022 Waris Radji ~ Build with ♥.
+        © 2023 Théo Michel ~ Build with ♥.
     </footer>
     <script>
         // Code from https://stackoverflow.com/questions/10599933/convert-long-number-into-abbreviated-string-in-javascript-with-a-special-shortn

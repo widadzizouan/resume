@@ -25,14 +25,14 @@ details:
   #   value: "https://warisradji.com"
   - key: "Interests"
     value: "Classical Music, Science-Fiction, Philosophy, AI, Gym, MMA, Volley-Ball"
-description: "Looking for an internship enabling me to hone my skills in Artifical Intelligence, and also to contribute to a groundbreaking project, be it in the technology or the application"
+description: "I am fascinated by the concept of Intelligence and looking for an opporunity to explore it through Artificial Intelligence and Brain Computer Interfacing."
 jobs:
-  - date: "April 2022 - April 2023"
+  - date: "Apr 2022 - Apr 2023"
     company: "Snow GMAO"
     logo: "img/logo/snow-gmao.png"
     arrow: 50
     position: "CO-FOUNDER (with Widad ZIZOUAN) • Val d'isère"
-    description: "Co-founded a startup aimed at simplifying equipment maintenance for small companies, overseeing a team of 9. Went through all the stages of creating a company, and successfully developed a leading-edge app in the field of maintenance."
+    description: "Co-founded a startup aimed at simplifying equipment maintenance for small companies using AI, overseeing a team of 9. Went through all the stages of creating a company, and successfully developed a leading-edge app in the field of maintenance."
     badges:
       - name: "Flutter"
         icon: "img/ico/flutter.png"
@@ -40,9 +40,11 @@ jobs:
         icon: "img/ico/firebase.png"
       - name: "G Cloud"
         icon: "img/ico/google-cloud.png"
+      - name: "ML Kit"
+        icon: "img/ico/ml-kit.png"
     link: https://snow-cannon-gmao-website.firebaseapp.com/
     id: snow
-  - date: "August 2021 - January 2022 "
+  - date: "Aug 2021 - January 2022 "
     company: "Le Connecteur"
     logo: "img/logo/connecteur.png"
     arrow: 50
@@ -71,7 +73,7 @@ jobs:
   #   description: "Advised clients for high-tech product purchases. Gained valuable insights into the world of sales and customer preferences."
   #   badges:
   #   id: boulanger
-  - date: "Oct 2020 - Apr 2021"
+  - date: "Oct 2020 - Feb 2021"
     company: "Wellputt USA"
     logo: "img/logo/wellputt.png"
     arrow: 50
@@ -128,11 +130,11 @@ jobs:
     id: simbals
     link: https://www.simbals.com/
 educations:
-  - date: "February 2023 - July 2023"
+  - date: "Feb 2023 - July 2023"
     degree: "Exchange program"
     logo: "img/logo/KAIST.png"
     school: "Korean Advanced Institute of Science and Technology (KAIST)"
-    description: "Widly regarded as the best engineering school in South Korea, KAIST is a research-oriented university with a focus on science and technology, in which I participated in leading edge projects."
+    description: "Widly regarded as the best engineering school in South Korea, KAIST is a research-oriented university, in which I participated in leading edge projects."
     arrow: 50
     knowledges:
       - Deep Reinforcement Learning
@@ -141,7 +143,7 @@ educations:
       - IOT Data Science
     link: https://www.kaist.ac.kr/en/html/kaist/01.html#0112
 
-  - date: "October 2022 - February 2023"
+  - date: "Oct 2022 - Feb 2023"
     degree: "Exchange program"
     logo: "img/logo/TU_berlin.png"
     school: "Techninal University Berlin"
@@ -159,7 +161,7 @@ educations:
     degree: "Engineer's degree in Computer Science - Artificial Intelligence Major - PhD track "
     logo: "img/logo/enseirb.png"
     school: "ENSEIRB-MATMECA - Bordeaux Graduate School in Electronics, Computer Science, Telecommunications, Mathematics and Mechanics"
-    description: "Master the necessary fundamental, theoretical and practical aspects of the main fields of computer sciences. I joined the PhD track, which prepares engineering students for scientific research and its applications, encourages R&D vocations and facilitates the understanding of doctoral studies, through seminars, round tables, visits, projects, specific modules, etc."
+    description: "Master the necessary theoretical and practical aspects of computer sciences. I joined the PhD track, which prepares engineering students for scientific research and its applications."
     arrow: 50
     knowledges:
       - Probability
@@ -180,7 +182,7 @@ educations:
     degree: "Preparatory Class for the grandes ecoles"
     logo: "img/logo/prepa.png"
     school: "La Prepa des INP Bordeaux"
-    description: "Two year high-intensity study of Mathematics and physics to prepare for the entry into french engineering schools."
+    description: "Two year high-intensity study of Mathematics and Physics to prepare for the entry into french engineering schools."
     arrow: 50
     knowledges:
       - Logic
@@ -200,6 +202,7 @@ educations:
       - Wave Optics
       - Diffusion
       - Quantum Physics
+  
 
 
 projects:
@@ -325,19 +328,19 @@ skills:
     content: Python, Java / Kotlin, Dart / Js, Swift, C / C++, Lua, Functional Programming
   - icon: fas fa-database
     category: Data Science
-    content: Firebase, Big Query, Cloud functions, Plotly, Matplotlib, Google Data Studio
+    content: Firebase, Big Query, Cloud Functions, Plotly, Matplotlib, Google Data Studio
   - icon: fas fa-globe
     category: Application Framework
     content: Flutter, Android, iOS, Web
   - icon: fas fa-robot
     category: Robotics
-    content: Raspberry Pi / Arduino / Jetson, Soldering, ROS, PyBullet, Gazebo, Orb-Slam
+    content: RbPi / Arduino / Jetson, Soldering, ROS, PyBullet, Gazebo, Orb-Slam
 
   # - icon: fas fa-chart-pie
   #   category: Data Visualization
   #   content: 
   - icon: fas fa-balance-scale
     category: Soft Skills
-    content: Adaptability, Creativity, Problem-Solving, Attention to Detail, Ability to lead a team
+    content: Adaptability, Creativity, Problem-Solving, Attention to Detail, Team Spirit
 
 
