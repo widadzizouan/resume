@@ -226,18 +226,18 @@
                     <% for(let education of educations || []){ %>
                         <div class="education-block-wrapper">
                             <div class="education-block relative animate__animated">
-                                <% if (education.logo) { %>
-                                    <img class="absolute h-16 p-1.5 right-0" src="<%= education.logo %>"
-                                        alt="<%education.school%> logo">
-                                    <% }%>
                                         <span class="timeline-point-right"
                                             style="--timeline-top: <%= education.arrow %>%"></span>
                                         <div class="timeline-block-right">
                                             <span class="arrow-right"
                                                 style="--timeline-top: <%= education.arrow %>%"></span>
-                                            <div class="date">
+                                            <div class="date-edu">
                                                 <%= education.date %>
                                             </div>
+                                            <% if (education.logo) { %>
+                                                <img class="object-scale-down w-32 p-1.5 right-0 mx-auto mt-3 mb-3" src="<%= education.logo %>"
+                                                    alt="<%education.school%> logo">
+                                                <% }%>
                                             <h3>
                                                 <%= education.degree %>
                                             </h3>
@@ -264,7 +264,7 @@
                 </div>
             </div>
         </section>
-        <div class="pagebreak"> </div>
+        <!-- <div class="pagebreak"> </div> -->
         <div class="my-10"></div>
         <h2 id="achievements-projects"><i class="fas fa-trophy"></i> ACHIEVEMENTS & PROJECTS</h2>
         <section class="flex flex-wrap gap-x-6 px-2">

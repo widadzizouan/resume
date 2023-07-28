@@ -25,7 +25,7 @@ details:
   #   value: "https://warisradji.com"
   - key: "Interests"
     value: "Classical Music, Science-Fiction, Philosophy, AI, Gym, MMA, Volley-Ball"
-description: "I am fascinated by the concept of Intelligence and looking for an opporunity to explore it through Artificial Intelligence, Reinforcement Learning and Brain Computer Interfacing."
+description: "I am fascinated by the concept of Intelligence and looking for an opportunity to explore it through Artificial Intelligence, Reinforcement Learning and Brain Computer Interfacing."
 jobs:
   - date: "Apr 2022 - Apr 2023"
     company: "Snow GMAO"
@@ -134,7 +134,7 @@ educations:
     degree: "Exchange program"
     logo: "img/logo/KAIST.png"
     school: "Korean Advanced Institute of Science and Technology (KAIST)"
-    description: "Widly regarded as the best engineering school in South Korea, KAIST is a research-oriented university, in which I participated in leading edge projects."
+    description: "Widely regarded as the best engineering school in South Korea, KAIST is a research-oriented university, in which I participated in leading edge projects."
     arrow: 50
     knowledges:
       - Deep Reinforcement Learning
@@ -325,7 +325,7 @@ skills:
     content: Pytorch, TensorFlow, Scikit-learn, OpenCV, FastText, RLlib, DeepMind Melting Pot
   - icon: fas fa-code
     category: Programming
-    content: Python, Java / Kotlin, Dart / Js, Swift, C / C++, Lua, Functional Programming
+    content: Python, Java/Kotlin, Dart/Js, Swift, C/C++, Lua, Functional Programming
   - icon: fas fa-database
     category: Data Science
     content: Firebase, Big Query, Cloud Functions, Plotly, Matplotlib, Google Data Studio
@@ -334,7 +334,7 @@ skills:
     content: Flutter, Android, iOS, Web
   - icon: fas fa-robot
     category: Robotics
-    content: RbPi / Arduino / Jetson, Soldering, ROS, PyBullet, Gazebo, Orb-Slam
+    content: RbPi/Jetson, Soldering, ROS, PyBullet, Gazebo, Orb-Slam
 
   # - icon: fas fa-chart-pie
   #   category: Data Visualization
