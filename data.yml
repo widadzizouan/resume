@@ -27,7 +27,7 @@ details:
   #   value: "https://warisradji.com"
   - key: "Interests"
     value: "Classical Music, Science-Fiction, Philosophy, AI, Gym, MMA, Volley-Ball"
-description: "I am fascinated by the concept of Intelligence and looking for an opportunity to explore it through Artificial Intelligence, Reinforcement Learning and Brain Computer Interfacing."
+description: "Dedicated to enhancing human intelligence through Artificial Intelligence/Reinforcement Learning, Brain Computer Interfaces and Education." #"I am fascinated by the concept of Intelligence and looking for an opportunity to explore it through Artificial Intelligence, Reinforcement Learning and Brain Computer Interfacing."
 jobs:
   - date: "Apr 2022 - Apr 2023"
     company: "Snow GMAO"
@@ -109,9 +109,8 @@ jobs:
         icon: "img/ico/open-cv.png"
       - name: "Pytorch"
         icon: "img/ico/pytorch.png"
-      
     id: big_tilt
-    link: https://wellputt.com/eu/en/cms/17-bigtilt-contact
+    link: https://wellputt.com/us/cms/10-bigtilt-concept
   - date: "May 2020 - July 2020"
     company: "Simbals"
     logo: "img/logo/simbals.png"
