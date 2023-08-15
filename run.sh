@@ -1,6 +1,5 @@
 # npm install
 npm run build:html
-ls
 npm run build:tailwind
 start "" "public\index.html"
 
