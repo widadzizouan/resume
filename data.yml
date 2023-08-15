@@ -243,7 +243,7 @@ projects:
     - name: "Scikit-learn"
       icon: "img/ico/sklearn.png"
     id: dim_red
-    link: https://drive.google.com/file/d/17jsUQMLpwazcbKq-TFzwzr73QORlgzHG/view?usp=sharing
+    link: https://hal.science/hal-04175042
   - date: "2023"
     name: "Remote controle AI based glove"
     position: "RESEARCHER"
