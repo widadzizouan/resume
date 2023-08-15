@@ -2,7 +2,7 @@ zoom: "63.25%"
 title: "Théo Michel - Resume"
 firstName: "Théo"
 lastName: "Michel"
-position: "Recent Master's graduate seeking an AI research internship."
+position: "Recent Master's graduate in Software Engineering and Artificial Intelligence."
 links:
   - url: "https://github.com/theo-michel"
     icon: "fab fa-github"
@@ -16,7 +16,7 @@ details:
   - key: "Age"
     value: "23 years"
   - key: "Languages"
-    value: "French: Native, German: Native, English: Fluent, Spanish: Intermediate"
+    value: "French, German, English, Spanish"
   - key: "Location"
     value: "Flexible"
   - key: "Phone"
@@ -27,7 +27,9 @@ details:
   #   value: "https://warisradji.com"
   - key: "Interests"
     value: "Classical Music, Science-Fiction, Philosophy, AI, Gym, MMA, Volley-Ball"
-description: "Dedicated to enhancing human intelligence through Artificial Intelligence/Reinforcement Learning, Brain Computer Interfaces and Education." #"I am fascinated by the concept of Intelligence and looking for an opportunity to explore it through Artificial Intelligence, Reinforcement Learning and Brain Computer Interfacing."
+description: "Dedicated to enhancing human intelligence through AI, Brain-Computer Interfaces, and Education. I am looking for an Internship in which I can learn in from great minds and harness my skills in AI/RL, BCI, and Software Engineering to have a positive impact on the project."
+# description: "Dedicated to enhancing human intelligence through AI, Brain Computer Interfaces and Education. I am looking for an internship enabling me to leverage my skills in AI/RL, BCI and Software Engineering in order to make a meaningfull contribution, and at the same time improve skills. " #"I am fascinated by the concept of Intelligence and looking for an opportunity to explore it through Artificial Intelligence, Reinforcement Learning and Brain Computer Interfacing."
+
 jobs:
   - date: "Apr 2022 - Apr 2023"
     company: "Snow GMAO"
@@ -80,7 +82,7 @@ jobs:
     logo: "img/logo/wellputt.png"
     arrow: 50
     position: "ANDROID DEVELOPER/PRODUCT OWNER • Freelance • Remote"
-    description: "Spearheaded the development of an engaging Android application gamifying putting training, achieving a 4.4-star rating on the Play Store and over 80,000 downloads."
+    description: "Spearheaded the development of an engaging Android application gamifying putting training, achieving a 4.9-star rating on the Play Store since the update and over 80,000 downloads."
     badges:
       - name: "Kotlin"
         icon: "img/ico/kotlin.png"
@@ -95,7 +97,7 @@ jobs:
     logo: "img/logo/wellputt.png"
     arrow: 50
     position: "COMPUTER VISION ENGINEER • Freelance • Bayonne"
-    description: "Led the development of a highly accurate golf ball tracking and trajectory prediction algorithm for the Big Tilt platform."
+    description: "Led the development of a highly accurate golf ball tracking Computer Vision system and of a trajectory prediction algorithm for the Big Tilt platform."
     badges:
       - name: "C++"
         icon: "img/ico/cpp.png"
@@ -116,10 +118,12 @@ jobs:
     logo: "img/logo/simbals.png"
     arrow: 50
     position: "DATA SCIENTIST • Intern • Bordeaux"
-    description: "Created innovative musical descriptors, providing musicians with new ways to discover music."
+    description: "Created innovative musical descriptors using Gradient Boosted Decision trees, providing musicians with new ways to discover music."
     badges:
       - name: "Python"
         icon: "img/ico/python.png"
+      - name: "Catboost"
+        icon: "img/ico/catboost.png"
       - name: "Maplotlib"
         icon: "img/ico/matplotlib.png"
       - name: "Jupyter"
