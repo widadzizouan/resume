@@ -83,7 +83,7 @@ jobs:
     logo: "img/logo/wellputt.png"
     arrow: 50
     position: "ANDROID DEVELOPER/PRODUCT OWNER • Freelance • Remote"
-    description: "Spearheaded the development of an engaging Android application gamifying putting training, achieving a 4.9-star rating on the Play Store since the update and over 80,000 downloads."
+    description: "Spearheaded the development of an engaging Android application gamifying putting training, achieving a 4.9-star rating on the Play Store since the app redesign and over 80,000 downloads."
     badges:
       - name: "Kotlin"
         icon: "img/ico/kotlin.png"
@@ -98,7 +98,7 @@ jobs:
     logo: "img/logo/wellputt.png"
     arrow: 50
     position: "COMPUTER VISION ENGINEER • Freelance • Bayonne"
-    description: "Led the development of a highly accurate golf ball tracking Computer Vision system and of a trajectory prediction algorithm for the Big Tilt platform."
+    description: "Developed a highly accurate golf ball tracking Computer Vision system and of a trajectory prediction algorithm for the Big Tilt platform."
     badges:
       - name: "C++"
         icon: "img/ico/cpp.png"
