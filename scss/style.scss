@@ -226,7 +226,7 @@ nav {
     size: A4;
   }
   body {
-    padding-top: 5mm;
+    padding-top: 0mm;
     /*margin-right: 1.5cm;
     margin-left: 1.5cm;*/
   }
@@ -236,6 +236,18 @@ nav {
 
   .education-block-wrapper {
     page-break-inside: avoid;
+    padding-top: 10px;
+    padding-bottom: 0px;
+  }
+  .experiences-block-wrapper {
+    page-break-inside: avoid;
+    padding-top: 10px;
+    padding-bottom: 0px;
+  }
+  .project-block-wrapper {
+    /*page-break-inside: avoid;*/
+    padding-top: 10px;
+    padding-bottom: 0px;
   }
 
   .pagebreak {

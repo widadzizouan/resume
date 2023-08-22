@@ -164,7 +164,7 @@
                     </div>
                     <h2 id="work-experience"><i class="fas fa-briefcase"></i> WORK EXPERIENCE</h2>
                     <% for(let job of jobs || []){ %>
-                        <div class="job-block-wrapper">
+                        <div class="job-block-wrapper experiences-block-wrapper">
                             <div class="job-block relative animate__animated">
                                 <% if (job.logo) { %>
                                     <img class="absolute h-16 p-1.5" src="<%= job.logo %>"
@@ -224,7 +224,7 @@
                     <h2 id="education"><i class="fas fa-user-graduate"></i> EDUCATION</h2>
 
                     <% for(let education of educations || []){ %>
-                        <div class="education-block-wrapper">
+                        <div class="education-block-wrapper nopagebreak">
                             <div class="education-block relative animate__animated">
                                         <span class="timeline-point-right"
                                             style="--timeline-top: <%= education.arrow %>%"></span>
@@ -264,7 +264,7 @@
                 </div>
             </div>
         </section>
-        <div class="pagebreak"> </div>
+        <!-- <div class="pagebreak"> </div> -->
         <div class="my-10"></div>
         <h2 id="achievements-projects"><i class="fas fa-trophy"></i> ACHIEVEMENTS & PROJECTS</h2>
         <section class="flex flex-wrap gap-x-6 px-2">
