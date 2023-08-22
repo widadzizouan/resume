@@ -215,7 +215,7 @@ projects:
   - date: "2023"
     name: "Dark Forest Reinforcement Learning"
     position: "TEAM LEAD"
-    description: 'Design and Implementation of Reinforcement Learning environment for modelling Inter-Solar system communication using DeepMind Melting pot, RLlib and Ray, trying to answer the eternal question of : "Where are the Aliens"'
+    description: 'Design and Implementation of Reinforcement Learning environment for modelling Inter-Solar system communication using DeepMind Melting pot, RLlib and Ray, and self-playing IPPO agents trying to answer the eternal question of : "Where are the Aliens"'
     badges:
     - name: "Lua"
       icon: "img/ico/lua.png"
