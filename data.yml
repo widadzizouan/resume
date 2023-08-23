@@ -211,7 +211,7 @@ educations:
 projects:
   - date: "2023"
     name: "Dark Forest Reinforcement Learning"
-    position: "TEAM LEAD"
+    position: "RESEARCHER"
     description: 'Design and Implementation of an RL environment for modelling Inter-Solar system communication using DeepMind Melting pot, RLlib, and self-playing IPPO agents, trying to answer the eternal question of : "Where are the Aliens"'
     badges:
     - name: "Lua"
@@ -256,7 +256,7 @@ projects:
     link: "https://youtu.be/p7Pj-NgkkpA"
   - date: "2023"
     name: "Gesture-Controlled Autonomous Drone for Group Photography"
-    position: "DEVELOPER"
+    position: "RESEARCHER"
     description: 'Assembled and programmed a gesture-controlled autonomous quadcopter capable of capturing pictures of humans in different positions.'
     badges:
     - name: "C++"
@@ -287,7 +287,7 @@ projects:
     link: https://hal.science/hal-04175058
   - date: "2022"
     name: "Sim CLR Phd Track Project"
-    position: "Team Member"
+    position: "RESEARCHER"
     description: "Conducted research on the effectiveness of the contrastive self-supervised learning method Sim-CLR on various datasets, and explored its performance on resource-constrained hardware."
     badges:
     - name: "Python"
@@ -300,7 +300,7 @@ projects:
     link: https://hal.science/hal-04175012
   - date: "2021"
     name: "IA Pau Data Challenge"
-    position: "Team lead"
+    position: "TEAM LEAD"
     description: "Lead a team of first-year students in the AI Data Challenge Pau, achieving the best performance and lowest training time on the patent classification task using fastText (Meta)."
     badges:
     - name: "Python"
