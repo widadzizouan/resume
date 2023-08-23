@@ -321,7 +321,7 @@ projects:
     - name: "PyBullet"
       icon: "img/ico/py-bullet.png"
     id: hexapod
-    # link: https://github.com/riiswa/colony-ant-simulator
+    link: https://photos.app.goo.gl/EK17yejr278Rgb7p8
 skills:
   - icon: fas fa-robot
     category: Machine Learning
@@ -334,7 +334,7 @@ skills:
     content: Firebase, Big Query, Cloud Functions, Plotly, Matplotlib, Google Data Studio
   - icon: fas fa-globe
     category: Application Framework
-    content: Flutter, Android, iOS, Web
+    content: Flutter, Android, iOS, Web, React, Tailwind
   - icon: fas fa-robot
     category: Robotics
     content: RbPi/Jetson, Soldering, ROS, PyBullet, Gazebo, Orb-Slam
