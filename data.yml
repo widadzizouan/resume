@@ -321,7 +321,7 @@ projects:
     - name: "PyBullet"
       icon: "img/ico/py-bullet.png"
     id: hexapod
-    link: https://photos.app.goo.gl/EK17yejr278Rgb7p8
+    link: https://pitch.com/embed/46097a0e-ce72-4606-84ba-ea0834365475
 skills:
   - icon: fas fa-robot
     category: Machine Learning
