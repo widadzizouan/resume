@@ -227,7 +227,7 @@ projects:
     - name: "Ray"
       icon: "img/ico/ray.png"
     id: dark_forest
-    link: https://www.overleaf.com/read/vsyjfssdqxyt
+    link: https://hal.science/hal-04174783
   - date: "2023"
     name: "Novel Dimensionality Reduction Technique using ML Graph Embeddings"
     position: "RESEARCHER"
