@@ -37,9 +37,9 @@ jobs:
     logo: "img/logo/logoCasino.png"
     arrow: 50
     position: "Machine Learning Intern • Paris"
-    description: "Led the end-to-end development and deployment of a sales forecast and inventory optimization project for 100+ retail stores. Employed TIDE (Time-series Dense Encoder), a Google-developed model that achieved state-of-the-art results compared to Transformer-based models, surpassing the existing production model."
+    description: "Led the end-to-end development and deployment of a sales forecast and inventory optimization project deployed in 100+ retail stores. Employed TIDE (Time-series Dense Encoder), a Google-developed model that achieved state-of-the-art results compared to Transformer-based models, surpassing the existing production model."
     badges:
-      - name: "Flutter"
+      - name: "Vertex-AI"
         icon: "img/ico/flutter.png"
       - name: "Firebase"
         icon: "img/ico/firebase.png"
