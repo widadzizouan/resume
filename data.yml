@@ -39,15 +39,26 @@ jobs:
     position: "Machine Learning Intern • Paris"
     description: "Led the end-to-end development and deployment of a sales forecast and inventory optimization project deployed in 100+ retail stores. Employed TIDE (Time-series Dense Encoder), a Google-developed model that achieved state-of-the-art results compared to Transformer-based models, surpassing the existing production model."
     badges:
-      - name: "Vertex-AI"
-        icon: "img/ico/flutter.png"
-      - name: "Firebase"
-        icon: "img/ico/firebase.png"
+      - name: "VertexAI"
+        icon: "img/ico/vertexai.png"
+      - name: "BigQuery"
+        icon: "img/ico/logoBigquery.png"
       - name: "G Cloud"
         icon: "img/ico/google-cloud.png"
-      - name: "ML Kit"
-        icon: "img/ico/ml-kit.png"
-    link: https://snow-cannon-gmao-website.firebaseapp.com/
+      - name: "SQL"
+        icon: "img/ico/sql.png"
+      - name: "Python"
+        icon: "img/ico/python.png"
+      - name: "PyTorch"
+        icon: "img/ico/pytorch.png"
+      - name: "Pandas"
+        icon: "img/ico/pandas.png"
+      - name: "matplotlib"
+        icon: "img/ico/matplotlib.png"
+      - name: "Looker Studio"
+        icon: "img/ico/lookerstudio.svg"
+      
+    link: 
     id: casino
   - date: "Apr 2022 - Apr 2023"
     company: "Snow GMAO"
@@ -215,19 +226,19 @@ projects:
 skills:
   - icon: fas fa-robot
     category: Machine Learning
-    content: Pytorch, TensorFlow, Scikit-learn, OpenCV, FastText, RLlib, DeepMind Melting Pot
+    content: Pytorch, TensorFlow, Scikit-learn, OpenCV, FastText
   - icon: fas fa-code
     category: Programming
-    content: Python, Java/Kotlin, Dart/Js, Swift, C/C++, Lua, Functional Programming
+    content: Python, Java/Kotlin, Dart/Js, C/C++, Functional Programming
   - icon: fas fa-database
     category: Data Science
-    content: Firebase, Big Query, Pandas, Plotly, Matplotlib, Google Data Studio
+    content: Firebase, Big Query, Pandas, Plotly, Matplotlib, Looker Studio
   - icon: fas fa-globe
     category: Application Framework
     content: Flutter, Android, iOS, Web, React, Tailwind
   - icon: fas fa-robot
     category: Robotics
-    content: RbPi/Jetson, Soldering, ROS, PyBullet, Gazebo, Orb-Slam
+    content:  PyBullet
 
   # - icon: fas fa-chart-pie
   #   category: Data Visualization
