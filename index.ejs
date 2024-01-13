@@ -90,8 +90,8 @@
                     <div
                         class="md:max-h-80 print:max-h-60 overflow-hidden mx-auto print:flex print:justify-items-center print:items-center">
                         <img class="md:max-w-none md:h-full print:max-w-none print:h-full print:rounded-full" style="margin-left: 50%;
-    transform: translateX(-50%);" src="img/profile-final.png" onmouseover="this.src='img/profile-smile.png';"
-                            onmouseout="this.src='img/profile-final.png';" alt="profile picture">
+    transform: translateX(-50%);" src="img/profile-widad.png" onmouseover="this.src='img/profile-smile.png';"
+                            onmouseout="this.src='img/profile-widad.png';" alt="profile picture">
                     </div>
                 </div>
 
@@ -258,6 +258,19 @@
                                                         <% } %>
                                                 </div>
                                                 <% } %>%>
+                                                <!-- add a place here for awards and honors-->
+                                            </p>
+                                            <p class="position">
+                                                <div class = "text-justify">
+                                                    <% for (let award of education.awards || []) { %>
+                                                        <i class="fas fa-award"></i>
+                                                        <%= award %>
+                                                        <br>
+                                                        <% } %>
+                                                    
+                                                </div>
+                                            </p>
+
                                         </div>
                             </div>
                         </div>

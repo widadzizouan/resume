@@ -1,14 +1,14 @@
 zoom: "63.25%"
-title: "Théo Michel - Resume"
-firstName: "Théo"
-lastName: "Michel"
+title: "Widad Zizouan - Resume"
+firstName: "Widad"
+lastName: "Zizouan"
 position: "Recent Master's graduate in Software Engineering and Artificial Intelligence."
 links:
-  - url: "https://github.com/theo-michel"
+  - url: "https://github.com/widadzizouan"
     icon: "fab fa-github"
   # - url: "https://www.instagram.com/riiswa"
   #   icon: "fab fa-instagram"
-  - url: "www.linkedin.com/in/theo-michel42"
+  - url: "https://www.linkedin.com/in/widadzizouan/"
     icon: "fab fa-linkedin"
   # - url: "https://warisradji.com"
   #   icon: "fas fa-globe"
@@ -16,27 +16,44 @@ details:
   - key: "Age"
     value: "23 years"
   - key: "Languages"
-    value: "French, German, English, Spanish"
+    value: "French, English, Arabic, Spanish"
   - key: "Location"
-    value: "Flexible"
+    value: "Paris"
   - key: "Phone"
-    value: "+33 6 43 45 13 97"
+    value: "+33 6 26 27 42 07"
   - key: "E-mail"
-    value: "theo64200@gmail.com"
+    value: "widad.zizouan16@gmail.com"
   # - key: "Website"
   #   value: "https://warisradji.com"
   - key: "Interests"
-    value: "Classical Music, Science-Fiction, AI, Philosophy, Sailing, Gym, MMA, Volley-Ball"
-description: "Dedicated to enhancing human intelligence through the utilization of AI, Brain-Computer Interfaces, and Education. Seeking an end of study internship (PFE) to learn from great minds. With a strong background of 3+ years in software engineering projects alongside my AI studies, I am confident in my ability to make a meaningful contribution to applied AI, and Software Engineering endeavours."
+    value: "Litterature , Philosophy, AI, Gym, Dance"
+description: "I am a Computer Science engineer deeply fascinated by the intersection of artificial intelligence and the human journey. Intrigued by our evolution from learning how to use primitive tools to crafting sophisticated AI models, I am passionately dedicated to contributing to this extraordinary trajectory of progress."
 # description: "Dedicated to enhancing human intelligence through AI, Brain-Computer Interfaces, and Education. I am looking for an Internship in which I can learn from great minds and harness my skills in AI/RL, BCI, and Software Engineering to have a positive impact on the project."
 # description: "Dedicated to enhancing human intelligence through AI, Brain Computer Interfaces and Education. I am looking for an internship enabling me to leverage my skills in AI/RL, BCI and Software Engineering in order to make a meaningfull contribution, and at the same time improve skills. " #"I am fascinated by the concept of Intelligence and looking for an opportunity to explore it through Artificial Intelligence, Reinforcement Learning and Brain Computer Interfacing."
 
 jobs:
+  - date: "Sept 2023 - Feb 2024"
+    company: "Groupe Casino"
+    logo: "img/logo/logoCasino.png"
+    arrow: 50
+    position: "Machine Learning Intern • Paris"
+    description: "Led the end-to-end development and deployment of a sales forecast and inventory optimization project for 100+ retail stores. Employed TIDE (Time-series Dense Encoder), a Google-developed model that achieved state-of-the-art results compared to Transformer-based models, surpassing the existing production model."
+    badges:
+      - name: "Flutter"
+        icon: "img/ico/flutter.png"
+      - name: "Firebase"
+        icon: "img/ico/firebase.png"
+      - name: "G Cloud"
+        icon: "img/ico/google-cloud.png"
+      - name: "ML Kit"
+        icon: "img/ico/ml-kit.png"
+    link: https://snow-cannon-gmao-website.firebaseapp.com/
+    id: casino
   - date: "Apr 2022 - Apr 2023"
     company: "Snow GMAO"
     logo: "img/logo/snow-gmao.png"
     arrow: 50
-    position: "CO-FOUNDER (with Widad ZIZOUAN) • Val d'Isère"
+    position: "CO-FOUNDER (with Théo Michel) • Val d'Isère"
     description: "Co-founded a startup aimed at simplifying equipment maintenance for small companies using AI, overseeing a team of 9. Went through all the stages of creating a company, and successfully developed a leading-edge app."
     badges:
       - name: "Flutter"
@@ -70,99 +87,36 @@ jobs:
         icon: "img/ico/google-cloud.png"
     link: https://www.leconnecteur-biarritz.fr/
     id: connecteur
-  # - date: "July 2021 - August 2021"
-  #   company: "Boulanger SA"
-  #   logo: "img/logo/boulanger.png"
-  #   arrow: 50
-  #   position: "TECHNICAL ADVISOR • Bayonne"
-  #   description: "Advised clients for high-tech product purchases. Gained valuable insights into the world of sales and customer preferences."
-  #   badges:
-  #   id: boulanger
-  - date: "Oct 2020 - Feb 2021"
-    company: "Wellputt USA"
-    logo: "img/logo/wellputt.png"
-    arrow: 50
-    position: "ANDROID DEVELOPER/PRODUCT OWNER • Freelance • Remote"
-    description: "Spearheaded the development of an engaging Android application gamifying putting training, achieving a 4.9-star rating since the app redesign and over 80,000 downloads."
-    badges:
-      - name: "Kotlin"
-        icon: "img/ico/kotlin.png"
-      - name: "Android"
-        icon: "img/ico/android.png"
-      - name: "Firebase"
-        icon: "img/ico/firebase.png"
-    id: wellputt
-    link: https://play.google.com/store/apps/details?id=com.wellputt.wellputt
-  - date: "July 2020 - August 2020"
-    company: "Wellputt USA"
-    logo: "img/logo/wellputt.png"
-    arrow: 50
-    position: "COMPUTER VISION ENGINEER • Freelance • Bayonne"
-    description: "Developed a highly accurate golf ball tracking Computer Vision system and of a trajectory prediction algorithm for the Big Tilt platform."
-    badges:
-      - name: "C++"
-        icon: "img/ico/cpp.png"
-      - name: "Python"
-        icon: "img/ico/python.png"
-      - name: "Maplotlib"
-        icon: "img/ico/matplotlib.png"
-      - name: "Jupyter"
-        icon: "img/ico/jupyter.png"
-      - name: "Open CV"
-        icon: "img/ico/open-cv.png"
-      - name: "Pytorch"
-        icon: "img/ico/pytorch.png"
-    id: big_tilt
-    link: https://wellputt.com/us/cms/10-bigtilt-concept
   - date: "May 2020 - July 2020"
-    company: "Simbals"
-    logo: "img/logo/simbals.png"
-    arrow: 50
-    position: "DATA SCIENTIST • Intern • Bordeaux"
-    description: "Created innovative musical descriptors using Gradient Boosted Decision trees, providing musicians with new ways to discover music."
-    badges:
-      - name: "Python"
-        icon: "img/ico/python.png"
-      - name: "Pandas"
-        icon: "img/ico/pandas.png"
-      - name: "Catboost"
-        icon: "img/ico/catboost.png"
-      - name: "Maplotlib"
-        icon: "img/ico/matplotlib.png"
-      - name: "Jupyter"
-        icon: "img/ico/jupyter.png"
-      - name: "Librosa"
-        icon: "img/ico/librosa.png"
-      - name: "Pytorch"
-        icon: "img/ico/pytorch.png"
-    id: simbals
-    link: https://www.simbals.com/
 educations:
-  - date: "Feb 2023 - July 2023"
-    degree: "Exchange program"
-    logo: "img/logo/KAIST.png"
-    school: "Korean Advanced Institute of Science and Technology (KAIST), South Korea"
-    description: "Participated in leading-edge projects at KAIST, widely regarded as the top engineering school in South Korea, known for its research-oriented focus."
-    arrow: 50
-    knowledges:
-      - Deep Reinforcement Learning
-      - Introduction to Autonomous Robotics
-      - Graph Machine Learning
-      - IOT Data Science
-    link: https://www.kaist.ac.kr/en/html/kaist/01.html#0112
+  # - date: "Feb 2023 - July 2023"
+  #   degree: "Exchange program"
+  #   logo: "img/logo/KAIST.png"
+  #   school: "Korean Advanced Institute of Science and Technology (KAIST), South Korea"
+  #   description: "Participated in leading-edge projects at KAIST, widely regarded as the top engineering school in South Korea, known for its research-oriented focus."
+  #   arrow: 50
+  #   knowledges:
+  #     - Deep Reinforcement Learning
+  #     - Introduction to Autonomous Robotics
+  #     - Graph Machine Learning
+  #     - IOT Data Science
+  #   link: https://www.kaist.ac.kr/en/html/kaist/01.html#0112
 
-  - date: "Oct 2022 - Feb 2023"
+  - date: "Oct 2022 - August 2023"
     degree: "Exchange program"
     logo: "img/logo/TU_berlin.png"
     school: "Technical University Berlin, Germany"
-    description: "Enrolled in courses on Brain-Computer Interfacing and Machine Learning, taught by renowned experts like Klaus-Robert Müller, one of the pioneers in the field."
+    description: "Enrolled in courses on Machine Learning, taught by renowned experts like Klaus-Robert Müller, one of the pioneers in the field, I also delved into a highly theoretical exploration, drawing insights from key works that have significantly shaped the landscape."
     arrow: 50
     knowledges:
-      - Machine Learning Theory 1
+      - Machine Learning 1-X 
       - Python programming for Machine learning
-      - Machine Intelligence 1
-      - Brain Computer Interfacing
+      - Deep Learning 1 
       - Reinforcement Learning Research Project (LIS Lab)
+      - Machine Learning 2-X
+      - Mathematics of Machine Learning
+      - Deep Learning 2 
+      - Theory and Algorithms of Machine Learning 
     link: https://www.tu.berlin/en/
 
   - date: "2020 - 2023"
@@ -175,109 +129,55 @@ educations:
       - Functional Programing
       - OOP
       - Compiler Theory
-      - Quantum Computing
+      - Probability and Statistics
       - Numerical Methods
-      - OS Programming
+      - System Programming
       - Computability Theory
       - Robotics
       - Machine Learning
+      - Deep Learning 
+      - Search Algorithms
+      - Cryptology 
+      - Network Architecture
 
     link: https://enseirb-matmeca.bordeaux-inp.fr/fr/informatique
   - date: "2018 - 2020"
-    degree: "Preparatory Class for the grandes ecoles"
-    logo: "img/logo/prepa.png"
-    school: "La Prepa des INP Bordeaux, France"
-    description: "Two year high-intensity study of Mathematics and Physics to prepare for the entry into french engineering schools."
+    degree: "Preparatory Class for the Grandes Ecoles MPSI/MP"
+    logo: "img/logo/logoCPGE.png"
+    school: "CPGE Mohamed V Casablanca, Maroc"
+    description: "Two year high-intensity study of advanced Mathematics, Physics and Philosophy to prepare for the entry into moroccan and french engineering schools. "
     arrow: 50
     knowledges:
-      - Logic
       - Algebra
-      - Differential Calculus
-      - Group Theory
-      - Numerical Sequences
-      - Polynomials
       - Linear Algebra
-      - Reduction of Endomorphisms
+      - Differential Calculus
+      - Analysis
+      - Geometry
+      - Topology
+      - Numerical Analysis
+      - Probability and Statistics
       - Thermodynamics
       - Classical Mechanics
-      - Electrostatics and Magnetic Fields
-      - Electric Circuits
-      - Mecanical Waves
-      - Fluid Mecanics
-      - Wave Optics
-      - Diffusion
+      - Electromagnetism
+      - Electricity
+      - Statistical Mechanics
+      - Fluid Mechanics
+      - Waves
       - Quantum Physics
+      - Philosophy
+    awards: 
+      - Top 3% candidates nationwide in the MP (Mathematics and Physics) track. 
+      - Highest ranked woman in Casablanca.
+      - Two scholarships reserved for the top 300 engineering students in Morocco.
+
   
 
 
 projects:
-  - date: "2023"
-    name: "Dark Forest Reinforcement Learning"
-    position: "RESEARCHER"
-    description: 'Design and Implementation of an RL environment for modelling Inter-Solar system communication using DeepMind Melting pot, RLlib, and self-playing IPPO agents, trying to answer the eternal question of : "Where are the Aliens"'
-    badges:
-    - name: "Lua"
-      icon: "img/ico/lua.png"
-    - name: "Python"
-      icon: "img/ico/python.png"
-    - name: "Pytorch"
-      icon: "img/ico/pytorch.png"
-    - name: "Deepmind Melting Pot"
-      icon: "img/ico/deepmind.png"
-    - name: "Docker"
-      icon: "img/ico/docker.png"
-    - name: "Ray"
-      icon: "img/ico/ray.png"
-    id: dark_forest
-    link: https://hal.science/hal-04174783
-  - date: "2023"
-    name: "Novel Dimensionality Reduction Technique using ML Graph Embeddings"
-    position: "RESEARCHER"
-    description: 'Developed and implemented a novel dimensionality reduction technique using Graph Embeddings to preserve data substructures effectively. The algorithm performed on par or better than the SOTA while being extremely simple.'
-    badges:
-    - name: "Python"
-      icon: "img/ico/python.png"
-    - name: "Pytorch"
-      icon: "img/ico/pytorch.png"
-    - name: "Scikit-learn"
-      icon: "img/ico/sklearn.png"
-    id: dim_red
-    link: https://hal.science/hal-04175042
-  - date: "2023"
-    name: "Remote controle AI based glove"
-    position: "RESEARCHER"
-    description: 'Assembled a glove covered in accelerometers and used Machine Learning to learn movements and recognize them using the arduino 33 BLE.'
-    badges:
-    - name: "Python"
-      icon: "img/ico/python.png"
-    - name: "Tensorflow"
-      icon: "img/ico/tensorflow.png"
-    - name: "Arduino"
-      icon: "img/ico/arduino.png"
-    id: glove
-    link: "https://youtu.be/p7Pj-NgkkpA"
-  - date: "2023"
-    name: "Gesture-Controlled Autonomous Drone for Group Photography"
-    position: "RESEARCHER"
-    description: 'Assembled and programmed a gesture-controlled autonomous quadcopter capable of capturing pictures of humans in different positions.'
-    badges:
-    - name: "C++"
-      icon: "img/ico/cpp.png"
-    - name: "Python"
-      icon: "img/ico/python.png"
-    - name: "Gazebo"
-      icon: "img/ico/gazebo.png"
-    - name: "ROS"
-      icon: "img/ico/ros.png"
-    - name: "Jetson Nano"
-      icon: "img/ico/nvidia.png"
-
-    link: https://pitch.com/public/dc243670-7bac-4cd7-addc-8ccf4bf6df14
-    id: drone
   - date: "2022-2023"
-    name: "Dreamer V2"
+    name: "Smarter Subgoals Selection"
     position: "RESEARCHER"
-    description: "Research on the effectiveness of the Dreamer V2 RL algorithm in solving puzzle-like tasks. Implementation of the algorithm, training, and exploration of the task understanding."
+    description: "Research on predicting subgoals in puzzles and connecting it to subgoals in RL. Implementation of the algorithm, training, and exploration of the task understanding."
     badges:
     - name: "Python"
       icon: "img/ico/python.png"
@@ -285,8 +185,8 @@ projects:
       icon: "img/ico/pytorch.png"
     - name: ML Flow
       icon: "img/ico/ml-flow.png"
-    id: dreamer_v2
-    link: https://hal.science/hal-04175058
+    id: SSS
+    # link: https://hal.science/hal-04175058
   - date: "2022"
     name: "Sim CLR Phd Track Project"
     position: "RESEARCHER"
@@ -300,19 +200,7 @@ projects:
       icon: "img/ico/wb.svg"
     id: sim_clr
     link: https://hal.science/hal-04175012
-  - date: "2021"
-    name: "IA Pau Data Challenge"
-    position: "TEAM LEAD"
-    description: "Lead a team of first-year students in the AI Data Challenge Pau, achieving the best performance and lowest training time on the patent classification task using fastText (Meta)."
-    badges:
-    - name: "Python"
-      icon: "img/ico/python.png"
-    - name: "Fast Text"
-      icon: "img/ico/fast-text.png"
-    - name: "Qt"
-      icon: "img/ico/qt.png"
-    id: ai_data_challenge
-    link: https://www.linkedin.com/posts/warisr_f%C3%A9licitations-%C3%A0-tous-les-membres-deirbia-activity-6893670431908253696-B9Lz?utm_source=share&utm_medium=member_desktop
+
   - date: "2021"
     name: "Walking Hexapod"
     position: "DEVELOPER"
