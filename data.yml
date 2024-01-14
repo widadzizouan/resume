@@ -247,7 +247,7 @@ skills:
     content: Python, Java/Kotlin, Dart/Js, C/C++, Functional Programming
   - icon: fas fa-database
     category: Data Science
-    content: Firebase, Big Query, Pandas, Plotly, Matplotlib, Looker Studio
+    content: Firebase, BigQuery, Pandas, Plotly, Matplotlib, Looker Studio
   - icon: fas fa-globe
     category: Application Framework
     content: Flutter, Android, iOS, Web, React, Tailwind
@@ -260,6 +260,6 @@ skills:
   #   content: 
   - icon: fas fa-balance-scale
     category: Soft Skills
-    content: Adaptability, Creativity, Problem-Solving, Attention to Detail, Team Spirit
+    content: Adaptability ,Problem-Solving ,Curiosity ,Rigorousness , Team Spirit
 
 
