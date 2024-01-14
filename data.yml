@@ -37,7 +37,7 @@ jobs:
     logo: "img/logo/logoCasino.png"
     arrow: 50
     position: "Machine Learning Intern • Paris"
-    description: "Led the end-to-end development and deployment of a sales forecast and inventory optimization project deployed in 100+ retail stores. Employed TIDE (Time-series Dense Encoder), a Google-developed model that achieved state-of-the-art results compared to Transformer-based models, surpassing the existing production model."
+    description: "Led the end-to-end development and deployment of a sales forecast and inventory optimization project deployed in more than 100 retail stores. Employed TIDE (Time-series Dense Encoder), a state-of-the-art Google model, outperforming the existing model in production by an error reduction of 10% in the MAE value."
     badges:
       - name: "VertexAI"
         icon: "img/ico/vertexai.png"
@@ -223,6 +223,21 @@ projects:
       icon: "img/ico/py-bullet.png"
     id: hexapod
     link: https://pitch.com/embed/46097a0e-ce72-4606-84ba-ea0834365475
+  - date: "2022"
+    name: "End of year Project in collaboration with Pollen Robotics"
+    position: "Developper"
+    description: "Fine-tuned Gpt model (2.5) of OpenAI to make the robot Reachy-Mini performs basic tasks: Conversations, Giving accurate Weather Informations, Identifying tasks like taking photos of groups or individual people and sending them to the given email adresses."
+    badges:
+    - name: "Python"
+      icon: "img/ico/python.png"
+    - name: "Pytorch"
+      icon: "img/ico/pytorch.png"
+    - name: "OpenCV"
+      icon: "img/ico/open-cv.png"
+    - name: "OpenAI"
+      icon: "img/ico/openai.png"
+    id: pollenRobotics
+    link: https://hal.science/hal-04175012
 skills:
   - icon: fas fa-robot
     category: Machine Learning

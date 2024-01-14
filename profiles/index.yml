@@ -3,6 +3,7 @@ jobs:
   - snow
   - connecteur
 projects:
+  - pollenRobotics
   - SSS
   - sim_clr
   - hexapod
