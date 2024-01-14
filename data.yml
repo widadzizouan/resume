@@ -241,25 +241,25 @@ projects:
 skills:
   - icon: fas fa-robot
     category: Machine Learning
-    content: Pytorch, TensorFlow, Scikit-learn, OpenCV, FastText
+    content: Pytorch, TensorFlow, Scikit-learn, OpenCV, NLTK
   - icon: fas fa-code
     category: Programming
-    content: Python, Java/Kotlin, Dart/Js, C/C++, Functional Programming
+    content: C, C++, Python, JavaScript, Java, Dart, SQL
   - icon: fas fa-database
     category: Data Science
     content: Firebase, BigQuery, Pandas, Plotly, Matplotlib, Looker Studio
   - icon: fas fa-globe
     category: Application Framework
     content: Flutter, Android, iOS, Web, React, Tailwind
-  - icon: fas fa-robot
-    category: Robotics
-    content:  PyBullet
+  # - icon: fas fa-robot
+  #   category: Robotics
+  #   content:  PyBullet
 
   # - icon: fas fa-chart-pie
   #   category: Data Visualization
   #   content: 
   - icon: fas fa-balance-scale
     category: Soft Skills
-    content: Adaptability ,Problem-Solving ,Curiosity ,Rigorousness , Team Spirit
+    content: Adaptability, Problem-Solving, Curiosity, Rigorousness, Team Spirit
 
 
