@@ -185,24 +185,25 @@ educations:
 
 
 projects:
-- date: "2023-2024"
+  - date: "2023-2024"
     name: "Chatbot "
     position: "RESEARCHER"
     description: "Built a chatbot for Wellputt, a company that designs golf training equipment, for after-sales service. Fine-tuned BERT to achieve 91% for the F1 score metric. "
     badges:
     - name: "Python"
       icon: "img/ico/python.png"
-    - name: "LangChain"
-      icon: "img/ico/LangChain-logo.png"
     - name: "HuggingFace"
       icon: "img/ico/hugggingface.png"
+    - name: "LangChain"
+      icon: "img/ico/langchain3.png"
+    
     id: chatbotWellputt
   - date: "2022-2023"
     name: "Smarter Subgoal Selection"
     position: "RESEARCHER"
     description: "Research on predicting subgoals in puzzles and connecting it to subgoals in RL. Implementation of the algorithm, training, and exploration of the task understanding."
     badges:
-    - name: "Python"
+    - name: "Python" 
       icon: "img/ico/python.png"
     - name: "Pytorch"
       icon: "img/ico/pytorch.png"
