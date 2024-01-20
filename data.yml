@@ -185,8 +185,20 @@ educations:
 
 
 projects:
+- date: "2023-2024"
+    name: "Chatbot "
+    position: "RESEARCHER"
+    description: "Built a chatbot for Wellputt, a company that designs golf training equipment, for after-sales service. Fine-tuned BERT to achieve 91% for the F1 score metric. "
+    badges:
+    - name: "Python"
+      icon: "img/ico/python.png"
+    - name: "LangChain"
+      icon: "img/ico/LangChain-logo.png"
+    - name: "HuggingFace"
+      icon: "img/ico/hugggingface.png"
+    id: chatbotWellputt
   - date: "2022-2023"
-    name: "Smarter Subgoals Selection"
+    name: "Smarter Subgoal Selection"
     position: "RESEARCHER"
     description: "Research on predicting subgoals in puzzles and connecting it to subgoals in RL. Implementation of the algorithm, training, and exploration of the task understanding."
     badges:
@@ -194,8 +206,7 @@ projects:
       icon: "img/ico/python.png"
     - name: "Pytorch"
       icon: "img/ico/pytorch.png"
-    - name: ML Flow
-      icon: "img/ico/ml-flow.png"
+
     id: SSS
     # link: https://hal.science/hal-04175058
   - date: "2022"
@@ -251,9 +262,9 @@ skills:
   - icon: fas fa-globe
     category: Application Framework
     content: Flutter, Android, iOS, Web, React, Tailwind
-  # - icon: fas fa-robot
-  #   category: Robotics
-  #   content:  PyBullet
+  - icon: fas fa-robot
+    category: Generative AI
+    content:  LangChain, HuggingFace, NLTK, GPT, FLAN-T5,BERT
 
   # - icon: fas fa-chart-pie
   #   category: Data Visualization

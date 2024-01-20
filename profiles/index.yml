@@ -3,6 +3,7 @@ jobs:
   - snow
   - connecteur
 projects:
+  - chatbotWellputt
   - pollenRobotics
   - SSS
   - sim_clr
