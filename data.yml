@@ -27,7 +27,7 @@ details:
   #   value: "https://warisradji.com"
   - key: "Interests"
     value: "Philosophy, Litterature, AI, Gym, Dance"
-description: "I am a Computer Science engineer deeply fascinated by the intersection of artificial intelligence and the human journey. Intrigued by our evolution from learning how to use primitive tools to crafting sophisticated AI models, I am passionately dedicated to contributing to this extraordinary trajectory of progress."
+description: "I am a Computer Science engineer captivated by the perpetual search for meaning and purpose,. Intrigued by our evolution from learning how to use primitive tools to crafting sophisticated AI models, I am passionately dedicated to contributing to this extraordinary trajectory of progress."
 # description: "Dedicated to enhancing human intelligence through AI, Brain-Computer Interfaces, and Education. I am looking for an Internship in which I can learn from great minds and harness my skills in AI/RL, BCI, and Software Engineering to have a positive impact on the project."
 # description: "Dedicated to enhancing human intelligence through AI, Brain Computer Interfaces and Education. I am looking for an internship enabling me to leverage my skills in AI/RL, BCI and Software Engineering in order to make a meaningfull contribution, and at the same time improve skills. " #"I am fascinated by the concept of Intelligence and looking for an opportunity to explore it through Artificial Intelligence, Reinforcement Learning and Brain Computer Interfacing."
 
@@ -234,9 +234,9 @@ projects:
     id: hexapod
     link: https://pitch.com/embed/46097a0e-ce72-4606-84ba-ea0834365475
   - date: "2022"
-    name: "End of year Project in collaboration with Pollen Robotics"
+    name: "Humanoid Robot: Conversations, Weather Info"
     position: "Developper"
-    description: "Fine-tuned Gpt model (2.5) of OpenAI to make the robot Reachy-Mini performs basic tasks: Conversations, Giving accurate Weather Informations, Identifying tasks like taking photos of groups or individual people and sending them to the given email adresses."
+    description: "Performed Prompt Engineering on OpenAI's Gpt-2.5 to make the robot Reachy-Mini performs basic tasks: Conversations, Giving accurate Weather Informations, Identifying tasks like taking photos of groups or individual people and sending them to the given email adresses."
     badges:
     - name: "Python"
       icon: "img/ico/python.png"
