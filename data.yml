@@ -2,7 +2,7 @@ zoom: "63.25%"
 title: "Widad Zizouan - Resume"
 firstName: "Widad"
 lastName: "Zizouan"
-position: "Recent Master's graduate in Software Engineering and Artificial Intelligence."
+position: "Recent Master's graduate in Computer Science / Artificial Intelligence."
 links:
   - url: "https://github.com/widadzizouan"
     icon: "fab fa-github"
@@ -27,7 +27,8 @@ details:
   #   value: "https://warisradji.com"
   - key: "Interests"
     value: "Philosophy, Litterature, AI, Gym, Dance"
-description: "I am a Computer Science engineer captivated by the perpetual search for meaning and purpose,. Intrigued by our evolution from learning how to use primitive tools to crafting sophisticated AI models, I am passionately dedicated to contributing to this extraordinary trajectory of progress."
+description: "Looking for a challenging position as a Generative AI Engineer. where I can leverage my strong foundation in machine learning, deep learning, and generative models to contribute to innovative solutions.  "
+# "I am a Computer Science engineer captivated by the perpetual search for meaning and purpose,. Intrigued by our evolution from learning how to use primitive tools to crafting sophisticated AI models, I am passionately dedicated to contributing to this extraordinary trajectory of progress."
 # description: "Dedicated to enhancing human intelligence through AI, Brain-Computer Interfaces, and Education. I am looking for an Internship in which I can learn from great minds and harness my skills in AI/RL, BCI, and Software Engineering to have a positive impact on the project."
 # description: "Dedicated to enhancing human intelligence through AI, Brain Computer Interfaces and Education. I am looking for an internship enabling me to leverage my skills in AI/RL, BCI and Software Engineering in order to make a meaningfull contribution, and at the same time improve skills. " #"I am fascinated by the concept of Intelligence and looking for an opportunity to explore it through Artificial Intelligence, Reinforcement Learning and Brain Computer Interfacing."
 
@@ -186,7 +187,7 @@ educations:
 
 projects:
   - date: "2023-2024"
-    name: "Chatbot"
+    name: "Chatbot for After Sales Service"
     position: "RESEARCHER"
     description: "Built a chatbot for Wellputt, a company that designs golf training equipment, for after-sales service. Fine-tuned BERT to achieve 91% for the F1 score metric. "
     badges:
@@ -198,9 +199,9 @@ projects:
       icon: "img/ico/langchain3.png"
     id: chatbotWellputt
   - date: "2022-2023"
-    name: "Smarter Subgoal Selection"
+    name: "Smarter Subgoal Selection- Computer Vision"
     position: "RESEARCHER"
-    description: "Research on predicting subgoals in puzzles and connecting it to subgoals in RL. Implementation of the algorithm, training, and exploration of the task understanding."
+    description: "Fine-tuned Faster R-CNN on a custom Dataset of mazes to to enable an agent to navigate a maze from a starting point to an end goal."
     badges:
     - name: "Python" 
       icon: "img/ico/python.png"
@@ -247,7 +248,7 @@ projects:
     - name: "OpenAI"
       icon: "img/ico/openai.png"
     id: pollenRobotics
-    link: https://hal.science/hal-04175012
+    link: https://docs.google.com/presentation/d/1WX0GLmH-5fti3OPLlRNfSn5uFqVSwlfw0BGRu08hqX8/edit?usp=sharing
 skills:
   - icon: fas fa-robot
     category: Machine Learning
