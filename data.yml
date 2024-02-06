@@ -83,7 +83,7 @@ jobs:
     logo: "img/logo/connecteur.png"
     arrow: 50
     position: "LEAD DEVELOPER/ PRODUCT OWNER • Freelance • Biarritz"
-    description: "Developped a service for managing coworking space reservations through a WooCommerce site and a Flutter application for QR code scanning. Service has been running smoothly for 2 years."
+    description: "Developped a service for managing coworking space reservations through a WooCommerce site and a Flutter application for QR code scanning. Service has been running smoothly for 2 years. Since launch, 5000 orders have been made and 300k€ of revenue have been generated through the service provided by the app with roughly 800 users per day."
     badges:
       - name: "Flutter"
         icon: "img/ico/flutter.png"
@@ -187,9 +187,10 @@ educations:
 
 projects:
   - date: "2023-2024"
-    name: "Chatbot for After Sales Service"
+    name: "LLM powered Chatbot for Sales advising"
     position: "RESEARCHER"
-    description: "Built a chatbot for Wellputt, a company that designs golf training equipment, for after-sales service. Fine-tuned BERT to achieve 91% for the F1 score metric. "
+    description: "Build a chatbot advising on the best equipment for every golfer.
+This was done comparing different models, and using prompt engineering. The final solutions uses (Retrieval Augmented Generation) in order to give the best advice possible."
     badges:
     - name: "Python"
       icon: "img/ico/python.png"
@@ -197,6 +198,8 @@ projects:
       icon: "img/ico/hugg.png"
     - name: "LangChain"
       icon: "img/ico/langchain3.png"
+    - name: "OpenAI"
+      icon: "img/ico/openai.png"
     id: chatbotWellputt
   - date: "2022-2023"
     name: "Smarter Subgoal Selection- Computer Vision"
@@ -237,7 +240,7 @@ projects:
   - date: "2022"
     name: "Humanoid Robot: Conversations, Weather Info"
     position: "Developper"
-    description: "Performed Prompt Engineering on OpenAI's Gpt-2.5 to make the robot Reachy-Mini performs basic tasks: Conversations, Giving accurate Weather Informations, Identifying tasks like taking photos of groups or individual people and sending them to the given email adresses."
+    description: "Performed Prompt Engineering on OpenAI's Gpt-2.0 to make the robot Reachy-Mini perform basic tasks: Conversation, Retrieval of Weather Informations, Identifying tasks like taking picture of people and sending it to them."
     badges:
     - name: "Python"
       icon: "img/ico/python.png"
