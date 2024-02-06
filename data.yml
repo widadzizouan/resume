@@ -27,7 +27,7 @@ details:
   #   value: "https://warisradji.com"
   - key: "Interests"
     value: "Philosophy, Litterature, AI, Gym, Dance"
-description: "Looking for a challenging position as a Generative AI Engineer. where I can leverage my strong foundation in machine learning, deep learning, and generative models to contribute to innovative solutions.  "
+description: "Looking for a challenging position as a Generative AI Engineer. where I can leverage my strong foundation in Machine Learning, Deep Learning, and Generative AI to contribute to innovative solutions. "
 # "I am a Computer Science engineer captivated by the perpetual search for meaning and purpose,. Intrigued by our evolution from learning how to use primitive tools to crafting sophisticated AI models, I am passionately dedicated to contributing to this extraordinary trajectory of progress."
 # description: "Dedicated to enhancing human intelligence through AI, Brain-Computer Interfaces, and Education. I am looking for an Internship in which I can learn from great minds and harness my skills in AI/RL, BCI, and Software Engineering to have a positive impact on the project."
 # description: "Dedicated to enhancing human intelligence through AI, Brain Computer Interfaces and Education. I am looking for an internship enabling me to leverage my skills in AI/RL, BCI and Software Engineering in order to make a meaningfull contribution, and at the same time improve skills. " #"I am fascinated by the concept of Intelligence and looking for an opportunity to explore it through Artificial Intelligence, Reinforcement Learning and Brain Computer Interfacing."
@@ -38,7 +38,7 @@ jobs:
     logo: "img/logo/logoCasino.png"
     arrow: 50
     position: "Machine Learning Intern • Paris"
-    description: "Led the end-to-end development and deployment of a sales forecast and inventory optimization project deployed in more than 100 retail stores. Employed TIDE (Time-series Dense Encoder), a state-of-the-art Google model, outperforming the existing model in production by an error reduction of 10% in the MAE value."
+    description: "Led the end-to-end development and deployment of a sales forecast and inventory optimization project deployed in more than 100 retail stores. Used TIDE (Time-series Dense Encoder), a state-of-the-art Google model, outperforming the existing model in production by an error reduction of 30% in the MAE value."
     badges:
       - name: "VertexAI"
         icon: "img/ico/vertexai.png"
@@ -261,7 +261,7 @@ skills:
     content: Firebase, BigQuery, Pandas, Plotly, Matplotlib, Looker Studio
   - icon: fas fa-globe
     category: Application Framework
-    content: Flutter, Android, iOS, Web, React, Tailwind
+    content: Flutter, Android, iOS, Web
   - icon: fas fa-robot
     category: Generative AI
     content:  LangChain, HuggingFace

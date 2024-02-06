@@ -146,23 +146,7 @@
                     <div
                         class="top-16 -bottom-2 my-red w-1 opacity-30 absolute inset-x-0 mx-auto  md:invisible print:invisible">
                     </div>
-                    <h2 id="skills-interests"><i class="fas fa-book"></i> SKILLS</h2>
-                    <div
-                    class="grid grid-cols-2 md:grid-cols-3 justify-items-center gap-4 justify-center place-items-center px-2 md:pr-10 print:pr-10 md:pl-0 print:pl-0">                        <% for(let skill of skills || []){ %>
-                            <div class="skill-block-wrapper">
-                                <div class="skill-block animate__animated animate__slow">
-                                    <div class="skill-block-category text-center"><i class="<%= skill.icon %>"></i>
-                                        <%= skill.category %>
-                                    </div>
-                                    <% if (skill.content) {%>
-                                        <div class="text-center my-auto">
-                                            <%= skill.content %>
-                                        </div>
-                                        <%} %>
-                                </div>
-                            </div>
-                            <%} %>
-                    </div>
+                    
                     <h2 id="work-experience"><i class="fas fa-briefcase"></i> WORK EXPERIENCE</h2>
                     <% for(let job of jobs || []){ %>
                         <div class="job-block-wrapper experiences-block-wrapper">
@@ -218,7 +202,26 @@
                         <%} %>
                 </div>
                 <div class="col-span-1 relative">
+
 <!-- Space for skills -->
+        <h2 id="skills-interests"><i class="fas fa-book"></i> SKILLS</h2>
+                            <div
+                            class="grid grid-cols-2 md:grid-cols-3 justify-items-center gap-4 justify-center place-items-center px-2 md:pl-10 print:pl-10 print:pr-0 md:pl-0 print:pl-0">                        
+                            <% for(let skill of skills || []){ %>
+                                    <div class="skill-block-wrapper">
+                                        <div class="skill-block animate__animated animate__slow">
+                                            <div class="skill-block-category text-center"><i class="<%= skill.icon %>"></i>
+                                                <%= skill.category %>
+                                            </div>
+                                            <% if (skill.content) {%>
+                                                <div class="text-center my-auto">
+                                                    <%= skill.content %>
+                                                </div>
+                                                <%} %>
+                                        </div>
+                                    </div>
+                                    <%} %>
+                            </div>
                     <div
                         class="top-16 -bottom-2 my-red w-1 opacity-30 absolute inset-x-0 mx-auto md:invisible print:invisible">
                     </div>
