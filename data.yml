@@ -83,7 +83,7 @@ jobs:
     logo: "img/logo/connecteur.png"
     arrow: 50
     position: "LEAD DEVELOPER/ PRODUCT OWNER • Freelance • Biarritz"
-    description: "Led a team of five to develop a service for managing coworking space reservations through a WooCommerce site and a Flutter application for QR code scanning. Service has been running smoothly for 2 years."
+    description: "Developped a service for managing coworking space reservations through a WooCommerce site and a Flutter application for QR code scanning. Service has been running smoothly for 2 years."
     badges:
       - name: "Flutter"
         icon: "img/ico/flutter.png"
