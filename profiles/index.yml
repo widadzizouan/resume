@@ -1,9 +1,9 @@
 jobs:
+  - chatbotWellputt
   - casino
   - snow
   - connecteur
 projects:
-  - chatbotWellputt
   - pollenRobotics
   - SSS
   - sim_clr
