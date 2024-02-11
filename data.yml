@@ -23,8 +23,8 @@ details:
     value: "+33 6 26 27 42 07"
   - key: "E-mail"
     value: "widad.zizouan16@gmail.com"
-  # - key: "Website"
-  #   value: "https://warisradji.com"
+  - key: "Website"
+    value: "https://widadzizouan.github.io/resume/"
   - key: "Interests"
     value: "Philosophy, Litterature, AI, Gym, Dance"
 description: "Looking for a challenging position as a Generative AI Engineer. where I can leverage my strong foundation in Machine Learning, Deep Learning, and Generative AI to contribute to innovative solutions. "
@@ -38,8 +38,11 @@ jobs:
     logo: "img/logo/wellputt.png"
     arrow: 50
     position: "Freelancer • Remote "
-    description: "LLM powered Chatbot for Sales advising: Built a chatbot advising on the best equipment for every golfer.
-This was done comparing different models, and using prompt engineering. The final solutions uses (Retrieval Augmented Generation) in order to give the best advice possible."
+    description: "LLM powered Chatbot for Sales advising.
+
+     Built a chatbot advising on the best equipment for every golfer.
+     
+     This was done comparing different models, and using prompt engineering. The final solutions uses (Retrieval Augmented Generation) in order to give the best advice possible."
     badges:
       - name: "Python"
         icon: "img/ico/python.png"
