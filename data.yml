@@ -181,22 +181,10 @@ educations:
     description: "Two year high-intensity study of advanced Mathematics, Physics and Philosophy to prepare for the entry into moroccan and french engineering schools. "
     arrow: 50
     knowledges:
-      - Algebra
-      - Linear Algebra
-      - Differential Calculus
-      - Analysis
-      - Geometry
-      - Topology
-      - Numerical Analysis
-      - Probability and Statistics
-      - Thermodynamics
-      - Classical Mechanics
-      - Electromagnetism
-      - Electricity
-      - Statistical Mechanics
-      - Fluid Mechanics
-      - Waves
-      - Quantum Physics
+      - Mathematics
+      - Physics
+      - Computer Science
+      - Engineering Sciences
       - Philosophy
     awards: 
       - Top 3% candidates nationwide in the MP (Mathematics and Physics) track. 
