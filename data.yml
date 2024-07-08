@@ -14,7 +14,7 @@ links:
   #   icon: "fas fa-globe"
 details:
   - key: "Age"
-    value: "23 years"
+    value: "24 years"
   - key: "Languages"
     value: "French, English, Arabic, Spanish"
   - key: "Location"
@@ -33,16 +33,14 @@ description: "Looking for a challenging position as a Generative AI Engineer. wh
 # description: "Dedicated to enhancing human intelligence through AI, Brain Computer Interfaces and Education. I am looking for an internship enabling me to leverage my skills in AI/RL, BCI and Software Engineering in order to make a meaningfull contribution, and at the same time improve skills. " #"I am fascinated by the concept of Intelligence and looking for an opportunity to explore it through Artificial Intelligence, Reinforcement Learning and Brain Computer Interfacing."
 
 jobs:
-  - date: "Dec 2023 - now"
+  - date: "Apr 2024 - May 2024"
     company: "Wellputt"
     logo: "img/logo/wellputt.png"
     arrow: 50
     position: "Freelancer • Remote "
-    description: "LLM powered Chatbot for Sales advising.
-
-     Built a chatbot advising on the best equipment for every golfer.
-     
-     This was done comparing different models, and using prompt engineering. The final solutions uses (Retrieval Augmented Generation) in order to give the best advice possible."
+    description: "•Built an LLM-based chatbot assistant using (RAG) Retrieval Augmented Generation, answering to 80% of customer support
+questions. (Golf putting training mats).
+•Integrated an Agent using LangChain to make the chatbot react to queries and take relevant actions for order tracking."
     badges:
       - name: "Python"
         icon: "img/ico/python.png"
@@ -54,7 +52,7 @@ jobs:
         icon: "img/ico/openai.png"
     link: 
     id: chatbotWellputt
-  - date: "Sept 2023 - Feb 2024"
+  - date: "Sept 2023 - Mar 2024"
     company: "Groupe Casino"
     logo: "img/logo/logoCasino.png"
     arrow: 50
